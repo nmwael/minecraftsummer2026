@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/java
 {
 	"name": "Mincraft",
-	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
 
 	"features": {
 		"ghcr.io/devcontainers-extra/features/node-asdf:0": {},
