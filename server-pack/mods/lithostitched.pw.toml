@@ -1,0 +1,13 @@
+name = "Lithostitched"
+filename = "lithostitched-1.7.12-neoforge-26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/TTFc5DdC/lithostitched-1.7.12-neoforge-26.1.jar"
+hash-format = "sha512"
+hash = "dae771d675511085fcc579bed0a85f1a272956b1b4b6c860bddcf5a69dc08d4bb2c4362b0b2876a0840d64430a26ed9f7213c0066a3aafcdb46d6b4397c1ff29"
+
+[update]
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "TTFc5DdC"

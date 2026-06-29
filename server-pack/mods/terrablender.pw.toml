@@ -1,0 +1,13 @@
+name = "TerraBlender"
+filename = "TerraBlender-neoforge-26.1.2-26.1.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/rg59ugAw/TerraBlender-neoforge-26.1.2-26.1.2.0.2.jar"
+hash-format = "sha512"
+hash = "05c6d488accc846a9c06a4fcda8b46349c0c5ec82aa0de7f4d69ac1e29ff58241c84e9019c5481efdae7d5246646e276646d2c3aaaf84c9ffced633104913340"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "rg59ugAw"

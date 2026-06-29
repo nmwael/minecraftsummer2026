@@ -1,0 +1,13 @@
+name = "Infernal Mobs"
+filename = "InfernalMobs_v6.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e8f2c4967325305ce7864edf42f6f569b8c4f26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7983456
+project-id = 66072

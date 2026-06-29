@@ -1,0 +1,13 @@
+name = "Citadel (NeoForge)"
+filename = "citadelneoforge-26.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6020d786a64fd0132923556bf725ffe42f603a9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8161084
+project-id = 1512529

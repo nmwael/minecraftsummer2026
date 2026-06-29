@@ -1,0 +1,16 @@
+name = "Summer 2026 Survival Server"
+author = "minecraftsummer2026"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5b24f8166db5f86a56d13fc673f7d5400c57d7bf52b7ef3fd40f2da517c723e0"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.74"
+
+[options]
+acceptable-game-versions = ["26.1", "26.1.1", "26.1.2"]

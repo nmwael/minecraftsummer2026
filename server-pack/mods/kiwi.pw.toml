@@ -1,0 +1,13 @@
+name = "Kiwi 🥝"
+filename = "Kiwi-mc26.1.2-NeoForge-26.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/5ZlNZC3t/Kiwi-mc26.1.2-NeoForge-26.0.8.jar"
+hash-format = "sha512"
+hash = "e5276b086a8722c4653ea504b9ed9fdd1d5ce774bb35dcf1fde6a5e73bb23c6e902d2d0f2bf1e758dff56c1254c7f1f5c7649234c6b85c2ca749657e98d02926"
+
+[update]
+[update.modrinth]
+mod-id = "ufdDoWPd"
+version = "5ZlNZC3t"

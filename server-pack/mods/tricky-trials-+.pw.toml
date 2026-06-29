@@ -1,0 +1,13 @@
+name = "Tricky Trials +"
+filename = "TrickyTrials+-V1.5-Neoforge-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/39BMxlQx/versions/Wqg8iKdq/TrickyTrials%2B-V1.5-Neoforge-26.1.jar"
+hash-format = "sha512"
+hash = "b39bd3a30db6f7f169d30a6469609f4b51b1913f090f350b66a76d8a529e33b7bc21a94629af2c8324512138be16ebef3321be83de33e1dbe100016bfc6f4686"
+
+[update]
+[update.modrinth]
+mod-id = "39BMxlQx"
+version = "Wqg8iKdq"

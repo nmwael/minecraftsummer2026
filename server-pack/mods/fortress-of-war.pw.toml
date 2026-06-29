@@ -1,0 +1,13 @@
+name = "Fortress of War | Nether Fortress Update"
+filename = "fortress-of-war-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gohytQhh/versions/YFoZacQd/fortress-of-war-1.1.1.jar"
+hash-format = "sha512"
+hash = "e8f863ced941705d99b077241d609009d575cc11b077aa23d9f9f79b02004c4f98dd53047b0c4d7e4ce6066ac79daebfea2037d879a59e27452602a2d251b5db"
+
+[update]
+[update.modrinth]
+mod-id = "gohytQhh"
+version = "YFoZacQd"
