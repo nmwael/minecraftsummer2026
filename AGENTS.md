@@ -114,4 +114,4 @@ The Architect, in collaboration with QA, ensures that the final modpack is stabl
 
    *(Alternatively, if the `gh` CLI is installed, run:*  
    `gh release create v1.0.1 --notes "Release notes: bump version to 1.0.1, built client and server mrpacks." --title "Summer 2026 Survival v1.0.1" summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack`*  
-   *to upload assets automatically.)*
+   *to upload assets automatically.)*Version: 1.1.1
