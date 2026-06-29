@@ -1,0 +1,7 @@
+name = "AuraLite"
+filename = "AuraLite_1.0.0.zip"
+side = "client"
+[download]
+url = "https://example.com/AuraLite_1.0.0.zip"
+hash-format = "sha256"
+hash = ""

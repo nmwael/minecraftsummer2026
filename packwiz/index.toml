@@ -26,6 +26,11 @@ hash = "80814b817fb7af813b4d2b96be4dce34982ec5de461dcd1bb68d7d3e3230e715"
 metafile = true
 
 [[files]]
+file = "mods/bagus-lib.pw.toml"
+hash = "bac2afd3c98d5375b58d7269e57191db2b0fa5d9b69b3bde8714e4009dc7b1aa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "cb6d8758b31594a79a47766c51d558a352465c6301fb8d0739fed1c6cf2af2f7"
+metafile = true
+
+[[files]]
+file = "mods/earth-mobs.pw.toml"
+hash = "a84b09a345a0747920170ee52f779fde86aaae0d582d485c70ca9e2af632ffce"
 metafile = true
 
 [[files]]
@@ -306,6 +316,11 @@ hash = "90d754001cfcd93f56522d299b517ba39ba690f65de1eb0c37248c20f96c3540"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "f5d0664194b1659f7482d7a6051f1e65f410d2f66747fd76dac3c7e0fab12168"
+metafile = true
+
+[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "24b86c722131b7528cf0c05401a0282dfbc97e544550532070e582f6301f4d8e"
 metafile = true
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "1c1aed278cd2e80b4671e370d48b8580c736e3296390ba0be7dcae3d3b78914f"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "1437e5258c4b7c5178babdabc5da160ddbe82b3aab184cccbfde3b7451e773fb"
 metafile = true
 
 [[files]]
@@ -389,3 +409,8 @@ metafile = true
 file = "shaderpacks/lumina-shader-lite.pw.toml"
 hash = "12aaa015bce5574765803e68734f15eece40f1a7c97fcf26fc9509974af994e1"
 metafile = true
+
+[[files]]
+file = "shaderpacks/auralite.pw.toml"
+hash = ""
+

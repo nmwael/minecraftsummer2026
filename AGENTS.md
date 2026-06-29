@@ -65,3 +65,25 @@ A curated Minecraft 26.1.2 modpack for a parent and two children. The pack empha
 - All three players will play together on a LAN world or small server
 - Mods should be balanced — don't make survival too easy, but remove excessive grind
 - Minecraft 26.1 removed obfuscation — modding ecosystem is healthier and faster-moving
+
+## Releasing the Modpack
+
+1. **Increment the version** in `packwiz/pack.toml` (`version = "X.Y.Z"`).  
+2. **Export the packs**: run `./build-mrpacks.sh`. This creates  
+   `summer-2026-survival-client-<version>.mrpack` and  
+   `summer-2026-survival-server-<version>.mrpack`.  
+3. **Commit & tag**:  
+   ```bash
+   git add packwiz/*.mrpack
+   git commit -m "Release vX.Y.Z"
+   git tag -a vX.Y.Z -m "Release vX.Y.Z"
+   git push origin main --tags
+   ```  
+4. **Create a GitHub Release**:  
+   - Go to *Releases* on the repository page.  
+   - Click *Draft a new release*, select the tag `vX.Y.Z`, fill in release notes, and publish.  
+   - Upload the two `.mrpack` files as assets.  
+
+   *(Alternatively, if the `gh` CLI is installed, run:*  
+   `gh release create vX.Y.Z --notes "Release notes" --files *.mrpack`*  
+   *to upload assets automatically.)*

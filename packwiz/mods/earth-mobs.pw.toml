@@ -1,0 +1,13 @@
+name = "Earth Mobs"
+filename = "earthmobsmod-26.1.2-29.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "657f43647fb1b44741af6ef615b8e36f3612ddfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8179297
+project-id = 913527
