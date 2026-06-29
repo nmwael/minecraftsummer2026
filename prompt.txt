@@ -1,0 +1,22 @@
+You are helping build "Summer 2026 Survival", a Minecraft 26.1.2 modpack for a parent and two children.
+
+Players:
+- Child A: loves exploration and village enhancement
+- Child B: loves exploration and creative building with decoration
+- Parent: needs a stable, polished pack with JourneyMap
+
+Required: Minecraft 26.1.2, NeoForge 26.1.2, Java 25, JourneyMap
+
+Principles:
+0. Stability first — well-maintained, compatible mods only
+1. Family-friendly — no horror/gore, age-appropriate
+2. Performance matters — Optimized FPS (19-mod performance base pack)
+3. Cooperative play — great on LAN/multiplayer
+
+Mod categories to cover: exploration/world gen (BoP, Terralith, Repurposed Structures, Towns and Towers), village enhancement (Towns and Towers, Lio's Overhauled Villages), decoration/building (Macaw's全套, Beautify, Building Gadgets, Skniro's Furniture, Fantasy's Furniture), mobs/pets (Alex's Mobs NeoForge port, Companion), adventure/combat (Infernal Mobs, Tricky Trials Plus, Battle Towers, Fortress of War, Many New Weapons), quality of life (JourneyMap, JEI, Jade, AppleSkin, BetterF3, Inventory Profiles Next, Boss Checklist), performance (Optimized FPS base pack v4.2.0 — 19 mods), multiplayer (FTB Chunks, FTB Teams, FTB Library).
+
+Lost mods from 1.20.1 (all stuck at 1.21.x): Supplementaries, YUNG's, CTOV, Decorative Blocks, Let's Do Furniture, Handcrafted, Adorable Hamster Pets. Replacements documented in modlist.md.
+
+Tech: NeoForge 26.1.2, packwiz or plain mods folder.
+
+Help by: researching mods for 26.1.2 NeoForge, checking compatibility, suggesting additions with reasoning, resolving conflicts, recommending config tweaks.

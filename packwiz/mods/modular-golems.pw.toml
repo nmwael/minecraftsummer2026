@@ -1,0 +1,13 @@
+name = "Modular Golems"
+filename = "modulargolems-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtGDlsAD/versions/Fucfe6bn/modulargolems-26.1.2.1.jar"
+hash-format = "sha512"
+hash = "87d1ddb76121acf87a4785cffb2b32db998477c64ba09a910ccc5a35467cf9254032b43bf92998e8121c4f6ccb907eaf60c2867b72bc41642a69ebcf0eb33e00"
+
+[update]
+[update.modrinth]
+mod-id = "gtGDlsAD"
+version = "Fucfe6bn"

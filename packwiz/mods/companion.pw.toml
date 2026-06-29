@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-mc26.1-NeoForge-26.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/SH9ibwJs/Companion-mc26.1-NeoForge-26.0.6.jar"
+hash-format = "sha512"
+hash = "ca61e0c8ccc2af9bdfb52652b5b89c9c4079f174c8fa2c49f244becc55f1b09672a8a74ea0656698776f8920416ab1cdbdff0cb9515d72739a8086d6ea3eddc0"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "SH9ibwJs"

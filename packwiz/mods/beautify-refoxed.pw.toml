@@ -1,0 +1,13 @@
+name = "Beautify: ReFoxed"
+filename = "beautify-neoforge+26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bf056f91674670d5bbd47cd2ce083e1174d6e24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8058161
+project-id = 1446138

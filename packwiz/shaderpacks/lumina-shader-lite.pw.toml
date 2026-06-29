@@ -1,0 +1,13 @@
+name = "Lumina Shader - Lite"
+filename = "Lumina_Shader_Lite_v1.2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/70O0661F/versions/gMBBbo7A/Lumina_Shader_Lite_v1.2.2.zip"
+hash-format = "sha512"
+hash = "f22cc74dcb6e202681c00a1878166c373597dc10f2bcd9f8968c87c05798ab7dc9dd4d32f94289cd5140c82c23ccfac78b5ed754846e70a128cb7fc0a5f4934a"
+
+[update]
+[update.modrinth]
+mod-id = "70O0661F"
+version = "gMBBbo7A"
