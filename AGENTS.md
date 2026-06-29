@@ -44,8 +44,17 @@ A curated Minecraft 26.1.2 modpack for a parent and two children. The pack empha
 - **Mod loader:** NeoForge 26.1.2
 - **Modpack format:** Extends [Optimized FPS](https://modrinth.com/modpack/optimized-fps) v4.2.0 as base performance pack + additional content mods
 - **Development:** This devcontainer includes opencode.ai for AI-assisted modpack management
-- **Distribution:** Can use a GitHub release with the modpack zip or point to a modrinth/packwiz pack
-- You can also use the `AI_FUN_TOKEN` to automate GitHub CLI (`gh`) commands (e.g., creating releases, uploading assets) directly from the AI environment.
+- **Distribution:** Can use a GitHub release with the modpack zip or point to a modrinth/packwiz pack.
+- With the `AI_FUN_TOKEN` environment variable set, the `gh` CLI can be used from the AI environment to automate release creation and asset upload. For example, after tagging a new version, run:
+
+  ```bash
+  gh release create v1.0.1 \
+    --notes "Release notes: bump version to 1.0.1, added AI_FUN_TOKEN usage docs." \
+    --title "Summer 2026 Survival v1.0.1" \
+    summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack
+  ```
+
+  The `AI_FUN_TOKEN` provides authentication, so no manual token setup is required.
 - **Java:** 25 (required by Minecraft 26.x)
 
 ## How the AI Should Help
