@@ -57,6 +57,20 @@ gh release create v1.0.1 \
 ```
 
 The command above automatically uploads the listed mrpack files as assets, so they appear on the release page (e.g., https://github.com/nmwael/minecraftsummer2026/releases/tag/v1.0.1). No manual token configuration is needed.
+
+## Roles and Responsibilities
+
+**Architect**
+The Architect oversees the overall design and coordination of the modpack development process. This role orchestrates the various @developer agents, ensuring their contributions align with the project vision, quality standards, and release goals. The Architect reviews contributions, validates mod compatibility, and ensures the final product is polished and ready for presentation to the family.
+
+**Developer**
+Developers focus on creating and maintaining individual mods or mod configurations. They implement new features, fix bugs, and optimize performance within their domains. Developers collaborate with the Architect to ensure their contributions meet quality standards and integration requirements.
+
+**Quality Assurance (QA)**
+The QA role verifies that all mods and configurations work correctly together, performs stability tests, and confirms that the final release meets family‑friendly criteria. QA also assists in documenting any issues and confirming that the final release is ready for distribution.
+
+**Overall Quality Assurance**
+The Architect, in collaboration with QA, ensures that the final modpack is stable, performant, and suitable for presentation to the family and potential wider audience. This includes final testing, documentation polishing, and versioning before release.
 - **Java:** 25 (required by Minecraft 26.x)
 
 ## How the AI Should Help
