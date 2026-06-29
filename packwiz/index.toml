@@ -6,6 +6,11 @@ hash = "9698efd7b54a2dd948d16a86e29410bd4127297b93fef89217791a9cd6f3ac4e"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "7cae1a04ecff1c8fb622c3b1512dbf603166edd2109ffb292c375af87509671b"
+metafile = true
+
+[[files]]
 file = "mods/apexcore.pw.toml"
 hash = "b8050b621d31f52788134100d82fef99a9aeaac4156b922292f6cd25bf428411"
 metafile = true
@@ -126,6 +131,11 @@ hash = "cb1e9eab7cac3e8ce2fe07f04bd1887b6a0f18af8f0f294f67ff2ec359f8ca49"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2cd8bd2ab21c10aeea870cb9ce1034874a5a41d84c2c4063ff6989b632367b2c"
+metafile = true
+
+[[files]]
 file = "mods/fortress-of-war.pw.toml"
 hash = "be56eb692d5a48bc85f65bf836fc4d6f678d48a9289f30f262b860e62dec181a"
 metafile = true
@@ -221,6 +231,11 @@ hash = "28c6ba4936c08c9250b175e6513c3a6d9981585b76f56526fb6ae37b27d6c308"
 metafile = true
 
 [[files]]
+file = "mods/liteminer.pw.toml"
+hash = "7d78fdb39785f45f53388b0802232b9c39328e721795697500f4d9a87eac5241"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "4e95a99c70b39f9146ecfc1cc1d2fdfc2f672a3c8c9870654e3bbd5fdf4807f4"
 metafile = true
@@ -303,6 +318,16 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "44f63af44ae9583208eef5f4569410e2fe67a718709de5e27a0374b3dc1ea029"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "e08a8e387abd8137cfc6ee02bf26394ee1164f23a8d81763fe81ff5caf189cdf"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "ae3c26d1baebdc5946f9f6400097b5fae2775e45ca9ba0db9f777dbb2336e3ed"
 metafile = true
 
 [[files]]
