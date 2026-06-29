@@ -16,6 +16,11 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "80814b817fb7af813b4d2b96be4dce34982ec5de461dcd1bb68d7d3e3230e715"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
@@ -81,6 +86,41 @@ hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
+file = "mods/fantasys-furniture-bone.pw.toml"
+hash = "86927f3727f047c5bd9f2c95870c2d19fc8d916331a62bc5d1349696fee8fa92"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-decorations.pw.toml"
+hash = "d55a3b67a1d67ed7b6565cf3bc2ee6aceee256aa77918ad97753e5fab5498b15"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-dunmer.pw.toml"
+hash = "748998886c6d07e02a96ec4e66f8897242740ddb16eb7bc0bee4fae607897640"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-necrolord.pw.toml"
+hash = "efbb32faff9f6aeaedba737f2f57203a8c89c92e71dd7b4bd9a44ad7408c7143"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-nordic.pw.toml"
+hash = "5d77210ba2b573872966eed07b4c67987193e9e3e871c8528c4f80d4c31867b2"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-royal.pw.toml"
+hash = "99b30dd4ee627f41941f0cd8b9e539ec612a34c40f0e8f4e9f74dd300131a834"
+metafile = true
+
+[[files]]
+file = "mods/fantasys-furniture-venthyr.pw.toml"
+hash = "1f7997194fb71982a0a40a520bfcde82b038d6aa474a06d7228d56fe37aa0fa2"
+metafile = true
+
+[[files]]
 file = "mods/fantasys-furniture.pw.toml"
 hash = "cb1e9eab7cac3e8ce2fe07f04bd1887b6a0f18af8f0f294f67ff2ec359f8ca49"
 metafile = true
@@ -116,6 +156,11 @@ hash = "cb69112ea7c492ee73426fb503af2d834c8bafcd8341188c99ea6dc56d38de6f"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "03189bc351a9f8624ee2577091d357af4ded2f80edaef14ccf04e171b6a6b596"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "0b241eaf4020f55632c9e14f271f61517b89f8e49e15c9067e9a4484c8405511"
 metafile = true
@@ -128,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "4c40bdb11803e0774e32f0e4b8c2b8975712b4cabbd2ae8d2e145526f46431c1"
-metafile = true
-
-[[files]]
-file = "mods/infernal-mobs.pw.toml"
-hash = "116f9e1c7f81482108cbbebe74e505b92a97c2c01bd4c96ae2be81f540d59586"
 metafile = true
 
 [[files]]
@@ -182,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "2f463aca0a87305e1da2ecacef3d92e9c7d6e4d2b35321bf9f6b2deaa4627ad3"
+hash = "4e95a99c70b39f9146ecfc1cc1d2fdfc2f672a3c8c9870654e3bbd5fdf4807f4"
 metafile = true
 
 [[files]]

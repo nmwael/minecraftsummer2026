@@ -1,0 +1,13 @@
+name = "Fantasy's Furniture - Decorations"
+filename = "fantasyfurniture_decorations-26.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f93e6bea60c6edc24c5c6a8b628c9713398a2d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8050261
+project-id = 1220590
