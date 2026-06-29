@@ -73,6 +73,8 @@ The QA role verifies that all mods and configurations work correctly together, p
 The Architect, in collaboration with QA, ensures that the final modpack is stable, performant, and suitable for presentation to the family and potential wider audience. This includes final testing, documentation polishing, and versioning before release.
 - **Java:** 25 (required by Minecraft 26.x)
 
+**Note:** The Architect role is read‑only. It only delegates and orchestrates tasks; it does not make direct modifications to the codebase or configuration.
+
 ## How the AI Should Help
 
 - Research mods that fit the criteria above — check they're for 26.1.2, open-source, and actively maintained

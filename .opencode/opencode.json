@@ -1,25 +1,21 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "model": "nvidia/nemotron-3-nano-30b-a3b",
-  "small_model": "nvidia/nemotron-nano-9b-v2",
+  "small_model": "nemotron-nano-9b-v2",
   "agent": {
     "architect": {
-      "model":  "nvidia/nemotron-3-nano-30b-a3b",
       "temperature": 0.5,
       "steps": 50
     },
     "developer": {
-      "model": "nvidia/nemotron-3-nano-30b-a3b",
       "temperature": 0.2,
       "steps": 100
     },
     "tester": {
-      "model": "nvidia/nemotron-3-nano-30b-a3b",
       "temperature": 0.2,
       "steps": 100
     },
     "security-auditor": {
-      "model": "nvidia/nemotron-3-nano-30b-a3b",
       "temperature": 0.3,
       "steps": 50
     }
