@@ -53,11 +53,10 @@ gh release create v1.0.1 \
   --repo nmwael/minecraftsummer2026 \
   --notes "Release notes: bump version to 1.0.1, built client and server mrpacks." \
   --title "Summer 2026 Survival v1.0.1" \
-  --file summer-2026-survival-client-1.0.1.mrpack \
-  --file summer-2026-survival-server-1.0.1.mrpack
+  summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack
 ```
 
-The `--file` options tell `gh` to upload each mrpack as an asset, so they will appear on the release page (e.g., https://github.com/nmwael/minecraftsummer2026/releases/tag/v1.0.1). No manual token configuration is needed.
+The command above automatically uploads the listed mrpack files as assets, so they appear on the release page (e.g., https://github.com/nmwael/minecraftsummer2026/releases/tag/v1.0.1). No manual token configuration is needed.
 - **Java:** 25 (required by Minecraft 26.x)
 
 ## How the AI Should Help
@@ -98,5 +97,5 @@ The `--file` options tell `gh` to upload each mrpack as an asset, so they will a
    - Upload the two `.mrpack` files as assets.  
 
    *(Alternatively, if the `gh` CLI is installed, run:*  
-   `gh release create vX.Y.Z --notes "Release notes" --files *.mrpack`*  
+   `gh release create v1.0.1 --notes "Release notes: bump version to 1.0.1, built client and server mrpacks." --title "Summer 2026 Survival v1.0.1" summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack`*  
    *to upload assets automatically.)*
