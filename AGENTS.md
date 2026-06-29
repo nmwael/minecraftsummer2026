@@ -47,14 +47,16 @@ A curated Minecraft 26.1.2 modpack for a parent and two children. The pack empha
 - **Distribution:** Can use a GitHub release with the modpack zip or point to a modrinth/packwiz pack.
 - With the `AI_FUN_TOKEN` environment variable set, the `gh` CLI can be used from the AI environment to automate release creation and asset upload. For example, after tagging a new version, run:
 
-  ```bash
-  gh release create v1.0.1 \
-    --notes "Release notes: bump version to 1.0.1, added AI_FUN_TOKEN usage docs." \
-    --title "Summer 2026 Survival v1.0.1" \
-    summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack
-  ```
+```bash
+export GH_TOKEN=$AI_FUN_TOKEN
+gh release create v1.0.1 \
+  --repo nmwael/minecraftsummer2026 \
+  --notes "Release notes: bump version to 1.0.1, built client and server mrpacks." \
+  --title "Summer 2026 Survival v1.0.1" \
+  summer-2026-survival-client-1.0.1.mrpack summer-2026-survival-server-1.0.1.mrpack
+```
 
-  The `AI_FUN_TOKEN` provides authentication, so no manual token setup is required.
+The `AI_FUN_TOKEN` provides authentication, so no manual token setup is required, and the `gh` command automatically uploads the `*.mrpack` files as assets. This ensures the assets appear on the release page (e.g., https://github.com/nmwael/minecraftsummer2026/releases/tag/v1.0.1).
 - **Java:** 25 (required by Minecraft 26.x)
 
 ## How the AI Should Help
