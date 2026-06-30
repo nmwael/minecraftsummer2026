@@ -326,11 +326,6 @@ hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
 metafile = true
 
 [[files]]
-file = "mods/many-more-ores.pw.toml"
-hash = "e568cf1a03542eb28d167d2ffe48b31ea4282109257834f3a8e70bbacc5f28e3"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
 metafile = true
