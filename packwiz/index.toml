@@ -216,6 +216,11 @@ hash = "c5f206c7e02b0c12eae781b8aa722e5e7835113c5da5292404e4172d2560c904"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ores.pw.toml"
+hash = "fcf60518eac0f18c2d1c02b17d01fe13aa0b14de422548ded36ad98e36bbd4fe"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "24cc78461194e0666bb2baaf4220240f95a9d3d79cc57d2c4011e96fd9713536"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
+metafile = true
+
+[[files]]
+file = "mods/many-more-ores.pw.toml"
+hash = "e568cf1a03542eb28d167d2ffe48b31ea4282109257834f3a8e70bbacc5f28e3"
 metafile = true
 
 [[files]]

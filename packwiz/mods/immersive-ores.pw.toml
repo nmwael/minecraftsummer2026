@@ -1,0 +1,13 @@
+name = "Immersive Ores"
+filename = "immersiveores-26.1.2-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9Vuwq3S/versions/iEppeKCl/immersiveores-26.1.2-0.2.jar"
+hash-format = "sha512"
+hash = "c26552a8801055f59b9ad6748ccc6e37dd20d7187b6061f5fa153941198a287793d1210311b8ab62b205e1c6d2284022868f8a3170598da6b68ab7142e0140f6"
+
+[update]
+[update.modrinth]
+mod-id = "F9Vuwq3S"
+version = "iEppeKCl"

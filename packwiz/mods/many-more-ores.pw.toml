@@ -1,0 +1,13 @@
+name = "Many More Ores"
+filename = "[1.21.1 ONLY]_Many_More_Ores_2.0_Full_Release-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHcFB1CA/versions/ATu4laxg/%5B1.21.1%20ONLY%5D_Many_More_Ores_2.0_Full_Release-NeoForge.jar"
+hash-format = "sha512"
+hash = "776daf1baf92fb8940a14f99ae14727782abccc16a469e6065309bc036653a1b4f028862e7f615360326ffe097d649be40a3b14ef9e39dfd60ed48d25557976c"
+
+[update]
+[update.modrinth]
+mod-id = "ZHcFB1CA"
+version = "ATu4laxg"
