@@ -406,11 +406,11 @@ hash = "4e31803a4bb0c727deb1475759f6090b24a8311fbd3b1becc77561977a015dc1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/lumina-shader-lite.pw.toml"
-hash = "12aaa015bce5574765803e68734f15eece40f1a7c97fcf26fc9509974af994e1"
+file = "shaderpacks/auralite.pw.toml"
+hash = "73d6887ea1511701f62aaead66c7aafc0a90d06962e14c372205216397b9fd46"
 metafile = true
 
 [[files]]
-file = "shaderpacks/auralite.pw.toml"
-hash = ""
-
+file = "shaderpacks/lumina-shader-lite.pw.toml"
+hash = "12aaa015bce5574765803e68734f15eece40f1a7c97fcf26fc9509974af994e1"
+metafile = true
