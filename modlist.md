@@ -106,25 +106,19 @@
 
 ---
 
-## Category: Performance (Base: Optimized FPS)
+## Category: Performance & Shaders
 
 | Mod | Loader | Notes |
 |---|---|---|
-| [Optimized FPS](https://modrinth.com/modpack/optimized-fps) | NeoForge | **Base performance pack v4.2.0 for 26.1.2.** Includes 19 curated mods — we extend this instead of maintaining our own performance list. |
-
-### What Optimized FPS v4.2.0 provides (19 mods, all bundled):
-- **Rendering:** Sodium, Sodium Extra, Reese's Sodium Options, Iris Shaders, ImmediatelyFast, MoreCulling
-- **Optimization:** Lithium, FerriteCore, ModernFix, Dynamic FPS, MoreCulling
-- **Visual:** LambDynamicLights, ETF (Entity Texture Features), EMF (Entity Model Features)
-- **QoL:** Ok Zoomer, Remove Reloading Screen, Yeetus Experimentus, No Chat Reports, e4mc (LAN-to-internet)
-- **Config:** Cloth Config API
-- **Loader:** NeoForge 26.1.2.74
-
-### Mods we drop from our original performance list (handled by Optimized FPS):
-- **Sodium, Lithium, FerriteCore, ModernFix, ImmediatelyFast** — included in Optimized FPS
-- **Entity Culling** — replace with MoreCulling (same purpose, more thorough)
-- **C2ME** — not in base pack; optional add-on if chunk gen is slow
-- **Fusion (Connected Textures)** — not in base pack; still needed if we want connected textures
+| [Sodium](https://modrinth.com/mod/sodium) | NeoForge | Rendering optimization + shader UI. v0.8.10 for 26.1.2 NeoForge. |
+| [Iris Shaders](https://modrinth.com/mod/iris) | NeoForge | Shader pack loader — adds "Shader Packs" button in Video Settings. v1.10.9 for 26.1.x NeoForge. |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | NeoForge | Extra video settings (FPS, weather, animations toggles). |
+| [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | NeoForge | Improved Sodium options UI (search, scrollable pages). |
+| [Lithium](https://modrinth.com/mod/lithium) | NeoForge | Server-side physics/AI/tick optimization. |
+| [ModernFix](https://modrinth.com/mod/modernfix) | NeoForge | Memory/performance fixes for modern Minecraft. |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | NeoForge | Memory usage reduction. |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | NeoForge | Reduces block entity render lag. |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | NeoForge | Dynamic lighting from held items. |
 
 ---
 
@@ -156,19 +150,20 @@
 
 ## Installation Notes
 
-1. Install **NeoForge 26.1.2.74** (download from [neoforged.net](https://neoforged.net))
+1. Install **NeoForge 26.1.2.74+** (download from [neoforged.net](https://neoforged.net))
 2. Use **Java 25** (required by Minecraft 26.x)
-3. Install **Optimized FPS 4.2.0** as base performance pack (download `.mrpack` from [Modrinth](https://modrinth.com/modpack/optimized-fps/version/4.2.0) or install via Modrinth App)
-4. Add all content/decoration/exploration mod `.jar` files to the `mods` folder
-5. Run once, let configs generate, then tweak as desired
+3. Install the `.mrpack` using your preferred launcher (Modrinth App, Prism Launcher, etc.)
+4. Run once, let configs generate, then tweak as desired
+5. For shaders: go to Options → Video Settings → Shader Packs, and drag in any `.zip` shader pack
 6. Recommended: pre-generate chunks with [Chunky](https://modrinth.com/mod/chunky) (26.x version available) before playing
 
 ### Mods to Skip / Watch
 
-- **OptiFine** — conflicts with Sodium. Use Iris + Complementary Shaders instead (Iris is in Optimized FPS).
-- **Embeddium/Radium** — not needed. Native Sodium + Lithium available via Optimized FPS.
-- **C2ME** — not in Optimized FPS base. Add if chunk generation is slow on your machine.
-- **Fusion (Connected Textures)** — not in Optimized FPS base. Add if you want connected glass/textures.
+- **OptiFine** — conflicts with Sodium. Use Iris + shader packs instead (Iris is included).
+- **Embeddium/Radium** — not needed. Native Sodium + Lithium are bundled.
+- **Optimized FPS** — not needed as a separate install. The key mods (Sodium, Iris, Lithium, ModernFix, FerriteCore) are included directly.
+- **C2ME** — optional. Add if chunk generation is slow on your machine.
+- **Fusion (Connected Textures)** — not included. Add if you want connected glass/textures.
 
 ### What's Different from 1.20.1
 
