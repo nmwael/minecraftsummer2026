@@ -326,6 +326,11 @@ hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
 metafile = true
 
 [[files]]
+file = "mods/many-more-ores-and-crafts.pw.toml"
+hash = "5173467aec6f9cc007022cfb334adc60b4cf8233d559f58540d2b9efc786ad26"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
 metafile = true

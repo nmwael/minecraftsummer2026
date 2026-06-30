@@ -1,0 +1,13 @@
+name = "Many More Ores and Crafts"
+filename = "[26.1.2-2.0.1] many_more_ores_and_crafts-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c870ac1157f88c9858e17aedb2c226e2ed1e26a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8213037
+project-id = 1092861
