@@ -26,6 +26,11 @@ hash = "80814b817fb7af813b4d2b96be4dce34982ec5de461dcd1bb68d7d3e3230e715"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "5e9d732f8b339b09c53425ef0953681f4ada9ab90a268d7e6082bb1a6a880806"
+metafile = true
+
+[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "bac2afd3c98d5375b58d7269e57191db2b0fa5d9b69b3bde8714e4009dc7b1aa"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "40a86e0ee0041ed19a50079e605c4b86f625176d3bdad2412097c58380b1786b"
 metafile = true
 
 [[files]]
@@ -141,6 +151,11 @@ hash = "cb1e9eab7cac3e8ce2fe07f04bd1887b6a0f18af8f0f294f67ff2ec359f8ca49"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2cd8bd2ab21c10aeea870cb9ce1034874a5a41d84c2c4063ff6989b632367b2c"
 metafile = true
@@ -196,8 +211,18 @@ hash = "4c40bdb11803e0774e32f0e4b8c2b8975712b4cabbd2ae8d2e145526f46431c1"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c5f206c7e02b0c12eae781b8aa722e5e7835113c5da5292404e4172d2560c904"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "24cc78461194e0666bb2baaf4220240f95a9d3d79cc57d2c4011e96fd9713536"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
 
 [[files]]
@@ -226,6 +251,11 @@ hash = "4a26c9be4f9aed9c01ff6cf88994c863da05c62822d9690c18925052c7de6e0a"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "4af50837d039d8b8a8857674033cbc87e90c441de2c296b2bd80a70ee04d3c96"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "b384b44e6513120830e094e6b3ed956c243d57e32ec5984fd83ddc6a59dd7f03"
 metafile = true
@@ -243,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/liteminer.pw.toml"
 hash = "7d78fdb39785f45f53388b0802232b9c39328e721795697500f4d9a87eac5241"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2f1532544e42fc6eb278c6c251d8495c1548c821c978cafa4fa2e4129e826567"
 metafile = true
 
 [[files]]
@@ -286,6 +321,11 @@ hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
+metafile = true
+
+[[files]]
 file = "mods/modular-golems.pw.toml"
 hash = "ea64e2414af5d3debf3bb1df4184ab5f2c2fdd2a263568f94ef29b8f0cfc8fe2"
 metafile = true
@@ -326,6 +366,11 @@ hash = "24b86c722131b7528cf0c05401a0282dfbc97e544550532070e582f6301f4d8e"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "deda784a5a228ad01297f9931e0b62cf69c73b206d392c8b5e853ddcc6eb24dc"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "1c1aed278cd2e80b4671e370d48b8580c736e3296390ba0be7dcae3d3b78914f"
 metafile = true
@@ -353,6 +398,16 @@ metafile = true
 [[files]]
 file = "mods/skniros-furniture.pw.toml"
 hash = "67eb468bb2597d42625644d5854ddace21ca3f7a60ceaa6b96fc012093f14c26"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "e3b93b10a6b7dd984074f773d00653a752e5fed4ba721181aedaaad8371e6ccf"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "fe011ad4d25168b1ac16138184384cfeca21d898e378b281941e3e3014734b97"
 metafile = true
 
 [[files]]

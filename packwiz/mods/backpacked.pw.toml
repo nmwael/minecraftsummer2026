@@ -1,0 +1,8 @@
+name = "backpacked"
+filename = "backpacked-neoforge-3.0.4+26.1.2-signed.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MrCrayfish/Backpacked/releases/download/v3.0.4%2B26.1.2/backpacked-neoforge-3.0.4%2B26.1.2-signed.jar"
+hash-format = "sha256"
+hash = "aef3f1ab59d9237d28bf19d1693d130bf850dc6f7825d07e8e4c9aaa9139f4bb"
