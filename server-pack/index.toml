@@ -80,6 +80,16 @@ hash = "cf038801171962d4dd045f02d95f7d06fdea61a34e46e2fae0d40faf4ba1326c"
 metafile = true
 
 [[files]]
+file = "mods/crop-critters.pw.toml"
+hash = "1638f2cd3be282176b0e20d4a664c3ccf8a96881c51cc4567d4fecc38fe3bd58"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "cb6d8758b31594a79a47766c51d558a352465c6301fb8d0739fed1c6cf2af2f7"
 metafile = true
@@ -90,8 +100,18 @@ hash = "a84b09a345a0747920170ee52f779fde86aaae0d582d485c70ca9e2af632ffce"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "f871491abaffbc9f1324377525c4cbf47d46ffdf65def452b2816a009ead74aa"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "b1baa744204940671c7501296ae56e97da705f57b9d58bfdb522f87aa30d7d81"
 metafile = true
 
 [[files]]
@@ -170,6 +190,11 @@ hash = "cb69112ea7c492ee73426fb503af2d834c8bafcd8341188c99ea6dc56d38de6f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e179a8c28023f594bb992ca91aed004a6129cade18d818aeac8b89625879d1f7"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "03189bc351a9f8624ee2577091d357af4ded2f80edaef14ccf04e171b6a6b596"
 metafile = true
@@ -195,6 +220,11 @@ hash = "f1d578b914e14f8e84c18e77c0e4b8e94e9862b36cff27753a3e65563019c204"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "b2aefdc2bf8dcd732cf6eac6e77d0e42f6f2fd387e927ee7bef43dacf9823f02"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "2e1fa4d0e1651bd4a25b7afd5d9b58e6800015c4273a1134969cbae14a739c67"
 metafile = true
@@ -217,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/lios-overhauled-villages.pw.toml"
 hash = "28c6ba4936c08c9250b175e6513c3a6d9981585b76f56526fb6ae37b27d6c308"
-metafile = true
-
-[[files]]
-file = "mods/liteminer.pw.toml"
-hash = "7d78fdb39785f45f53388b0802232b9c39328e721795697500f4d9a87eac5241"
 metafile = true
 
 [[files]]
@@ -310,18 +335,13 @@ hash = "708caff4aeb49d31fc96004ee3879df44d19cf6f42e76c17314cbff54e9617d6"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "20ddf0b84d38cda161a59880fd216580d011d666d1401b118ee03f3d3e3db689"
+metafile = true
+
+[[files]]
 file = "mods/shogi.pw.toml"
 hash = "44f63af44ae9583208eef5f4569410e2fe67a718709de5e27a0374b3dc1ea029"
-metafile = true
-
-[[files]]
-file = "mods/silent-gear.pw.toml"
-hash = "e08a8e387abd8137cfc6ee02bf26394ee1164f23a8d81763fe81ff5caf189cdf"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "ae3c26d1baebdc5946f9f6400097b5fae2775e45ca9ba0db9f777dbb2336e3ed"
 metafile = true
 
 [[files]]

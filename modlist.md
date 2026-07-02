@@ -3,7 +3,7 @@
 **Minecraft:** 26.1.2  
 **Loader:** NeoForge 26.1.2  
 **Java:** 25 (required by 26.x)  
-**Last updated:** 2026-06-29
+**Last updated:** 2026-07-02
 
 ---
 
@@ -79,6 +79,19 @@
 
 ---
 
+## Category: Farming / Food
+
+| Mod | Loader | Notes |
+|---|---|---|
+| [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) | NeoForge | 250+ foods, 58 crops, 26 fruit trees. Major farming/food expansion. v4.3.1 for 26.1.2 NeoForge. Requires EpheroLib. |
+| [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) | NeoForge | Required by Croptopia. Library mod by thethonk. v1.3.0 for 26.1 NeoForge. |
+| [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | NeoForge | Right-click to harvest & replant crops. Configurable. v4.6.2 for 26.1.x NeoForge. Requires JamLib. |
+| [JamLib](https://modrinth.com/mod/jamlib) | NeoForge | Required by RightClickHarvest. Lightweight utility library. v2.3.1 for 26.1.x NeoForge. |
+| [Crop Critters](https://modrinth.com/mod/crop-critters) | NeoForge | Fully-grown crops have 8% chance to turn into helper mobs. Fun, family-friendly farm helpers. v1.4.2 for 26.1.2 NeoForge. Requires GeckoLib. |
+| [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
+
+---
+
 ## Category: Adventure / Combat
 
 | Mod | Loader | Notes |
@@ -103,6 +116,7 @@
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | NeoForge | One-click sorting, auto-refill, gear sets. 26.1 NeoForge. |
 | [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) | NeoForge | Fancy tooltip borders for rare items (matching item color). Center item names, 3d previews, compact tooltips. Client-side. 26.1.x NeoForge. Requires Iceberg + Prism. |
 | [Traveler's Titles](https://modrinth.com/mod/travelers-titles) | NeoForge | RPG-like titles when entering biomes & dimensions. Perfect for Child A's exploration focus. Client-side. 26.1.1-26.1.2 NeoForge. Requires YUNG's API. |
+| [FallingTree](https://modrinth.com/mod/fallingtree) | NeoForge | Chop entire trees by breaking one log. Config'd to SHIFT_DOWN mode: logs fall gradually as you cut. 26.1.2 NeoForge. |
 
 ---
 
@@ -145,6 +159,9 @@
 | [Fragmentum](https://www.curseforge.com/minecraft/mc-mods/fragmentum-neoforge) | NeoForge | Required by Pillager Caravans. Lightweight core framework for Obscuria Collection mods. 26.1.2 NeoForge. |
 | [Bagus Lib](https://www.curseforge.com/minecraft/mc-mods/bagus-lib) | NeoForge | Required by Earth Mobs. Utility library for entity/animation helpers. 26.1.2 NeoForge. |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | NeoForge | Required by Respawning Animals. Common utility library. 26.1.x NeoForge. |
+| [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) | NeoForge | Required by Croptopia. Library mod by thethonk. v1.3.0 for 26.1 NeoForge. |
+| [JamLib](https://modrinth.com/mod/jamlib) | NeoForge | Required by RightClickHarvest. Lightweight utility library. v2.3.1 for 26.1.x NeoForge. |
+| [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
 
 ---
 
@@ -190,5 +207,6 @@
 - Skniro's Furniture + Fantasy's Furniture (furniture variety)
 - Explorify + Dungeons and Taverns + Moog's Soaring Structures (adventure/structures)
 - Infernal Mobs + Tricky Trials + + Battle Towers + Fortress of War (boss fights/combat)
+- Croptopia + RightClickHarvest + Crop Critters (farming/food overhaul — 250+ foods, 58 crops, helper mobs)
 - Better mod ecosystem — all new mods target 26.x going forward
 - No obfuscation — modding ecosystem healthier, fewer crashes
