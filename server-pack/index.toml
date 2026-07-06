@@ -249,6 +249,11 @@ hash = "24cc78461194e0666bb2baaf4220240f95a9d3d79cc57d2c4011e96fd9713536"
 metafile = true
 
 [[files]]
+file = "mods/item-tooltips.pw.toml"
+hash = "3f5debe697c449fbdb2b48ffb92bc1717769d53a1f37d002999b5bf76588979d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "f1d578b914e14f8e84c18e77c0e4b8e94e9862b36cff27753a3e65563019c204"
 metafile = true

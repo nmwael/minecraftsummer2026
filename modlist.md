@@ -178,6 +178,7 @@
 | [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
 | [Unified API](https://modrinth.com/mod/unified-api) | NeoForge | Required by Legacies and Legends. Shared API/library for multi-loader mods. v4.3 for 26.1 NeoForge. |
 | [Trim Patcher](https://modrinth.com/mod/trim-patcher) | NeoForge | Required by Legacies and Legends. Patches armor trim rendering for modded items. v2.1 for 26.1 NeoForge. |
+| [Item Tooltips](https://modrinth.com/mod/item-tooltips) | NeoForge | Required by Legacies and Legends. Adds configurable durability, attribute, item/enchantment description tooltips + tooltip wrapping. Server-optional but hard dependency of L&L. v26.1-r2.3-neoforge. |
 
 ---
 

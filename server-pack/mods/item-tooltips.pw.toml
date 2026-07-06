@@ -1,0 +1,13 @@
+name = "Item Tooltips"
+filename = "item-tooltips-26.1-r2.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JAn3TQr0/versions/S9bIzJf2/item-tooltips-26.1-r2.3-neoforge.jar"
+hash-format = "sha512"
+hash = "6c5a97c4d14e17ad8b3ea741b4b3a80adf51f91d0558a924bdb1f3fc149c206a55a5be377b4ee1aa092c279b4c145168bb4ea9b55101b4cf490d1e673f405fb0"
+
+[update]
+[update.modrinth]
+mod-id = "JAn3TQr0"
+version = "S9bIzJf2"
