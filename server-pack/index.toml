@@ -5,6 +5,10 @@ file = "README.md"
 hash = "cab3d272498053e0b4624632634850e5261c5654d16bffb6f7a43acec59a92da"
 
 [[files]]
+file = "config/alexsmobs-common.toml"
+hash = "e69520bb365a7a44c1fc9c473cfef5aa7055ee460fff9381d129394ebd175870"
+
+[[files]]
 file = "mods/alexs-mobs-neoforge.pw.toml"
 hash = "9698efd7b54a2dd948d16a86e29410bd4127297b93fef89217791a9cd6f3ac4e"
 metafile = true

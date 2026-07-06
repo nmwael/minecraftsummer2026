@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs-common.toml"
+hash = "e69520bb365a7a44c1fc9c473cfef5aa7055ee460fff9381d129394ebd175870"
+
+[[files]]
 file = "config/fallingtree-common.json5"
 hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
