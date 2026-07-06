@@ -29,6 +29,11 @@ hash = "80814b817fb7af813b4d2b96be4dce34982ec5de461dcd1bb68d7d3e3230e715"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "5e9d732f8b339b09c53425ef0953681f4ada9ab90a268d7e6082bb1a6a880806"
+metafile = true
+
+[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "bac2afd3c98d5375b58d7269e57191db2b0fa5d9b69b3bde8714e4009dc7b1aa"
 metafile = true

@@ -131,6 +131,7 @@
 | [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) | NeoForge | Fancy tooltip borders for rare items (matching item color). Center item names, 3d previews, compact tooltips. Client-side. 26.1.x NeoForge. Requires Iceberg + Prism. |
 | [Traveler's Titles](https://modrinth.com/mod/travelers-titles) | NeoForge | RPG-like titles when entering biomes & dimensions. Perfect for Child A's exploration focus. Client-side. 26.1.1-26.1.2 NeoForge. Requires YUNG's API. |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | NeoForge | Chop entire trees by breaking one log. Config'd to SHIFT_DOWN mode: logs fall gradually as you cut. 26.1.2 NeoForge. |
+| [Backpacked](https://github.com/MrCrayfish/Backpacked) | NeoForge | Backpack with enchantments and cosmetic armor layer. v3.0.4+26.1.2. Requires Framework. Server-authoritative — must be on both client and server. |
 
 ---
 
