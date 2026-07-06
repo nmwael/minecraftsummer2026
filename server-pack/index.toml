@@ -89,6 +89,11 @@ hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "40a86e0ee0041ed19a50079e605c4b86f625176d3bdad2412097c58380b1786b"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "0a7792889378a230ac18f4418b0ba20aaac92b5c0b6a0d108eae94a49ecde063"
 metafile = true

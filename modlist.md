@@ -132,6 +132,7 @@
 | [Traveler's Titles](https://modrinth.com/mod/travelers-titles) | NeoForge | RPG-like titles when entering biomes & dimensions. Perfect for Child A's exploration focus. Client-side. 26.1.1-26.1.2 NeoForge. Requires YUNG's API. |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | NeoForge | Chop entire trees by breaking one log. Config'd to SHIFT_DOWN mode: logs fall gradually as you cut. 26.1.2 NeoForge. |
 | [Backpacked](https://github.com/MrCrayfish/Backpacked) | NeoForge | Backpack with enchantments and cosmetic armor layer. v3.0.4+26.1.2. Requires Framework. Server-authoritative — must be on both client and server. |
+| [Comforts](https://modrinth.com/mod/comforts) | NeoForge | Sleeping bags & hammocks for skipping night anywhere. v15.0.0+26.1.2. Bundles SpectreLib. Server-authoritative — must be on both sides. |
 
 ---
 
