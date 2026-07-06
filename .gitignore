@@ -1,4 +1,14 @@
-summer-2026-survival-server-1.3.0.mrpack
-summer-2026-survival-client-1.3.0.mrpack
-summer-2026-survival-client-1.4.0.mrpack
-summer-2026-survival-server-1.4.0.mrpack
+# Built mrpack artifacts
+*.mrpack
+
+# Node.js (ssh2 used for SFTP scripts)
+node_modules/
+package.json
+package-lock.json
+
+# Temp scripts
+sftp_check.js
+/tmp/*
+
+# Stray mod metadata in root (packwiz mishaps)
+/mods/
