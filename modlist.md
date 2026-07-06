@@ -3,7 +3,7 @@
 **Minecraft:** 26.1.2  
 **Loader:** NeoForge 26.1.2  
 **Java:** 25 (required by 26.x)  
-**Last updated:** 2026-07-02
+**Last updated:** 2026-07-06
 
 ---
 
@@ -15,7 +15,7 @@
 | [TerraBlender](https://modrinth.com/mod/terrablender) | NeoForge | Required by Biomes O' Plenty. |
 | [Terralith](https://modrinth.com/datapack/terralith) | Any (datapack) | 100+ new biomes, vanilla-style world gen. Datapack = max compat. |
 | [Tectonic](https://modrinth.com/datapack/tectonic) | NeoForge | Massive terrain overhaul: deeper oceans, towering mountains, underground rivers, 25+ biome variants. v3.0.22+ for 26.1 NeoForge. Compatible with Terralith + BOP. |
-| [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-forge) | NeoForge | Replaces YUNG's mods. Adds biome-variant dungeons, fortresses, mineshafts, strongholds. v7.7.4 for 26.1 NeoForge (Jun 2026). |
+| [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-forge) | NeoForge | Biome-variant dungeons, fortresses, mineshafts, strongholds (complements YUNG's redesigns). v7.7.4 for 26.1 NeoForge (Jun 2026). |
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | NeoForge | Replaces CTOV. 50+ new village/outpost/ship variants. 26.1.x NeoForge. Requires [CristelLib](https://modrinth.com/mod/cristel-lib). |
 | [Lio's Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | NeoForge | Overhauls 5 vanilla village types with larger, detailed builds. Lightweight. 26.1.2 NeoForge (v0.0.7+). |
 | [Waystones](https://modrinth.com/mod/waystones) | NeoForge | Teleport between activated waystones. Essential for regrouping. Requires [Balm](https://modrinth.com/mod/balm). |
@@ -24,8 +24,19 @@
 | [Moog's Soaring Structures](https://modrinth.com/mod/mss-moogs-soaring-structures) | NeoForge | 30+ floating island structures with loot, mobs, and villagers. Universal jar works on NeoForge. v2.1.2 for 26.1.2. LGPL-3.0. |
 | [Trek](https://modrinth.com/datapack/trek) | Any (datapack) | 150+ vanilla-style custom structures — camps, ships, towers, islands, ruins, treehouses. MIT license. 26.1.x compatible. High compat with other structure mods via weight system. **Note:** adds densely alongside other structure mods — may feel crowded; can be removed if too many structures. |
 | [Arboria: Biome Enhancement](https://modrinth.com/datapack/arboria) | Any (datapack) | Overhauls vanilla overworld biomes: better trees, ponds, boulders, ground variation, tiny ocean islands. MIT. 26.1.x. **⚠ Potential conflict:** states incompatibility with mods that modify overworld surface biomes — Tectonic may conflict. Load above Terralith if used together. Test before committing. |
+| [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes) | NeoForge | New vanilla+ cave biomes with unique terrain, flora, and ambience. By YUNGNICKYOUNG. Requires YUNG's API. v4.1.0 for 26.1.2 NeoForge (Jun 2026). |
+| [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) | NeoForge | Complete redesign of vanilla dungeons — multi-room, multi-level, with traps and loot. v6.1.0 for 26.1.2 NeoForge. |
+| [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts) | NeoForge | Overhauled abandoned mineshafts with dynamic tunnel webs, new rooms, and varied layouts. v6.1.0 for 26.1.2 NeoForge. |
+| [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds) | NeoForge | Redesigned strongholds with complex corridors, libraries, and portal rooms. v6.1.0 for 26.1.2 NeoForge. |
+| [YUNG's Better Caves](https://modrinth.com/mod/yungs-better-caves) | NeoForge | Overhauled cave generation with underground lakes, rivers, lava oceans, and varied cave types. v4.1.0 for 26.1.2 NeoForge. **⚠ May conflict with Tectonic's cave generation.** |
+| [YUNG's Extras](https://modrinth.com/mod/yungs-extras) | NeoForge | Collection of vanilla+ structures and features: chimneys, wells, wall ruins, small quality-of-life worldgen improvements. v6.1.0 for 26.1.2 NeoForge. |
+| [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) | NeoForge | Naturally-generated bridges spanning rivers, ravines, and valleys. Great for exploration and navigation. 26.1.2 NeoForge. |
+| [Legacies and Legends](https://modrinth.com/mod/legacies-and-legends) | NeoForge | Complete exploration, loot and lore expansion — new structures, artifacts, and discoveries. Vanilla+. v1.9.1 for 26.1 NeoForge. Requires Unified API + Trim Patcher. |
+| [End Reborn](https://modrinth.com/mod/end-reborn) | NeoForge | Lightweight vanilla-style End dimension expansion: new biomes, blocks, items. By Rebel459. v1.3 for 26.1 NeoForge. |
+| [Bloom](https://modrinth.com/mod/bloom) | NeoForge | Vanilla-style Overworld expansion: new biomes, flora, blocks, crops. By Rebel459. v2.6 for 26.1 NeoForge. |
+| [Dungeons Dimensions: Nether](https://modrinth.com/mod/dungeons-dimensions-nether) | NeoForge | Adds terrain and content from Minecraft Dungeons to the Nether — new biomes, decoration blocks. v1.3.3 for 26.1.2 NeoForge. |
 
-> **Lost:** YUNG's Better Dungeons/Mineshafts/Strongholds, CTOV, When Dungeons Arise, Stoneholm — all stuck at 1.21.x or older. Repurposed Structures + Towns and Towers + Dungeons and Taverns + Moog's Soaring Structures + Explorify fill the gap.
+> **Lost:** CTOV, When Dungeons Arise, Stoneholm — still stuck at 1.21.x or older.
 
 ---
 
@@ -37,6 +48,7 @@
 | [Lio's Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | NeoForge | (listed above) Makes existing villages bigger and more detailed. |
 | [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) | NeoForge | 6 new villager professions with unique trades. Latest official: 1.21.11 NeoForge. 26.1.2 build reported but unverified — check before adding. |
 | [Guard Villagers](https://modrinth.com/mod/guard-villagers) | NeoForge | Adds armed guards to villages (iron sword or crossbow). Can be equipped with armor/shields. Patrol, follow, and defend. Clerics heal them, smiths repair their gear. 26.1.x NeoForge. |
+| [Millager (Village Defenders)](https://modrinth.com/mod/millager) | NeoForge | Adds infantry-and-cavalry armed villager faction with AI patrols, raid reinforcement waves, and garrisoned command posts. v0.5.1 for 26.1.2 NeoForge. Fits Child A's village interest. |
 
 > **Note:** No heavy colony mod (MineColonies-style) included — all three players preferred simpler village enhancement over full colony management.
 
@@ -57,8 +69,9 @@
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) | NeoForge | Exchange/wand/copy-paste gadgets for rapid building. Excellent for child B's large creative builds. v1.4.6 for 26.1.2 NeoForge (Apr 2026). |
 | [Skniro's Furniture](https://modrinth.com/mod/skniros-furniture) | NeoForge | 100+ furniture blocks: kitchens, sofas, shelves, desks, sliding doors, ceiling lights. All wood/clay variants. MIT license. v1.5.1 for 26.1.2 NeoForge. |
 | [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture) | NeoForge | Fantasy-themed furniture sets (Nordic, Venthyr, Royal, Bone, Skeleton, Wither). ApexCore embedded since 1.19 — no separate dep needed. v26.1.7 for 26.1.2 NeoForge. ARR. |
+| [Maple](https://modrinth.com/mod/maple) | NeoForge | Adds maple trees with red/orange/yellow foliage, plus backports cherry and bamboo wood sets. By skniro. v1.5.5 for 26.1.2 NeoForge. MIT. Perfect for Child B's decorative builds. |
 
-> **Lost:** Supplementaries, Decorative Blocks, Let's Do Furniture, Handcrafted, Chipped — all stuck at 1.21.x or older. Macaw's全套 + Beautify: ReFoxed + Building Gadgets + Skniro's Furniture + Fantasy's Furniture cover all decoration needs.
+> **Lost:** Supplementaries, Decorative Blocks, Let's Do Furniture, Handcrafted, Chipped — all stuck at 1.21.x or older. Macaw's全套 + Beautify: ReFoxed + Building Gadgets + Skniro's Furniture + Fantasy's Furniture + Maple cover all decoration needs.
 
 ---
 
@@ -74,8 +87,9 @@
 | [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) | NeoForge | Underground goblin traders with rare enchanted gear, XP potions, unique trades. Found in caves (Overworld) and Nether. By MrCrayfish. 26.1.2 NeoForge. Requires [Framework](https://www.curseforge.com/minecraft/mc-mods/framework). |
 | [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) | NeoForge | Adds mobs from Minecraft Earth (Moobloom, etc). Requires [Bagus Lib](https://www.curseforge.com/minecraft/mc-mods/bagus-lib). 26.1.2 NeoForge. |
 | [Respawning Animals](https://modrinth.com/mod/respawning-animals) | NeoForge | Animals respawn like monsters so they never go extinct. 26.1.x NeoForge. Requires [Puzzles Lib](https://modrinth.com/mod/puzzles-lib). |
+| [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves) | NeoForge | Adds all fish from Sea of Thieves — decorative fish, new fishing mechanics, and fish-based foods. MIT. v2.2.0 for 26.1.2 NeoForge. Family-friendly fishing fun. |
 
-> **Lost:** Adorable Hamster Pets (stuck at 1.21.1). No direct replacement yet — the dev plans to port forward. For now, Alex's Mobs + Companion + Earth Mobs + vanilla pets (wolves, cats, foxes) fill the pet slot. Check back for Hamster Pets 26.x port.
+> **Lost:** Adorable Hamster Pets (stuck at 1.21.1). No direct replacement yet — the dev plans to port forward. For now, Alex's Mobs + Companion + Earth Mobs + Fish of Thieves + vanilla pets fill the pet slot. Check back for Hamster Pets 26.x port.
 
 ---
 
@@ -150,7 +164,7 @@
 |---|---|---|
 | [CristelLib](https://modrinth.com/mod/cristel-lib) | NeoForge | Required by Towns and Towers. Also provides config UI for Explorify. v3.1.7 for 26.1.2 NeoForge (Jun 2026). |
 | [Balm](https://modrinth.com/mod/balm) | NeoForge | Required by Waystones. Library used by many QoL mods. v26.1.2.5 for 26.1.2 NeoForge (May 2026). |
-| [YUNG's API](https://modrinth.com/mod/yungs-api) | NeoForge | Required by Traveler's Titles. Full 26.1.2 NeoForge support (YUNG's API is maintained even though his content mods are stuck at 1.21.x). |
+| [YUNG's API](https://modrinth.com/mod/yungs-api) | NeoForge | Required by Traveler's Titles + YUNG's content mods. Full 26.1.2 NeoForge support. v6.1.0 (Jun 2026). |
 | [Iceberg](https://modrinth.com/mod/iceberg) | NeoForge | Required by Legendary Tooltips. Library for item tooltip utilities. 26.1.x NeoForge. |
 | [Prism](https://modrinth.com/mod/prism-lib) | NeoForge | Required by Legendary Tooltips v1.3+. Config library. 26.1.x NeoForge. |
 | [Collective](https://modrinth.com/mod/collective) | NeoForge | Required by Realistic Bees (and many other Serilum mods). Common utility library. 26.1.x NeoForge. |
@@ -162,6 +176,8 @@
 | [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) | NeoForge | Required by Croptopia. Library mod by thethonk. v1.3.0 for 26.1 NeoForge. |
 | [JamLib](https://modrinth.com/mod/jamlib) | NeoForge | Required by RightClickHarvest. Lightweight utility library. v2.3.1 for 26.1.x NeoForge. |
 | [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
+| [Unified API](https://modrinth.com/mod/unified-api) | NeoForge | Required by Legacies and Legends. Shared API/library for multi-loader mods. v4.3 for 26.1 NeoForge. |
+| [Trim Patcher](https://modrinth.com/mod/trim-patcher) | NeoForge | Required by Legacies and Legends. Patches armor trim rendering for modded items. v2.1 for 26.1 NeoForge. |
 
 ---
 
@@ -186,7 +202,6 @@
 
 **Lost mods** (stuck at 1.21.x or older, no 26.x build):
 - Supplementaries → partially covered by Macaw's + Beautify: ReFoxed
-- YUNG's Better Dungeons/Mineshafts/Strongholds → replaced by Repurposed Structures + Towns and Towers
 - CTOV → replaced by Towns and Towers + Lio's Overhauled Villages
 - Decorative Blocks → no direct replacement (lightweight loss)
 - Let's Do Furniture → covered by Macaw's Furniture + Skniro's + Fantasy's
@@ -206,7 +221,11 @@
 - Building Gadgets (rapid building tools)
 - Skniro's Furniture + Fantasy's Furniture (furniture variety)
 - Explorify + Dungeons and Taverns + Moog's Soaring Structures (adventure/structures)
-- Infernal Mobs + Tricky Trials + + Battle Towers + Fortress of War (boss fights/combat)
+- Infernal Mobs + Tricky Trials + Battle Towers + Fortress of War (boss fights/combat)
 - Croptopia + RightClickHarvest + Crop Critters (farming/food overhaul — 250+ foods, 58 crops, helper mobs)
+- **YUNG's full suite** (Cave Biomes, Better Dungeons, Better Mineshafts, Better Strongholds, Better Caves, Extras, Bridges) — all now available for 26.1.2
+- Legacies and Legends + End Reborn + Bloom (vanilla+ exploration/lore/content expansion)
+- Millager (village defenders) + Fish of Thieves (fishing expansion)
+- Maple (new tree type for decoration) + Dungeons Dimensions: Nether (Nether terrain)
 - Better mod ecosystem — all new mods target 26.x going forward
 - No obfuscation — modding ecosystem healthier, fewer crashes

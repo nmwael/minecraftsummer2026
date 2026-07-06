@@ -1,0 +1,13 @@
+name = "Dungeons Dimensions: Nether"
+filename = "mcd_d_nether-neoforge-26.1.2-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sf8l9B73/versions/AEcYG8rE/mcd_d_nether-neoforge-26.1.2-1.3.3.jar"
+hash-format = "sha512"
+hash = "1069eba3bc093c09b8ff063cfb6fccb77cfdb064fba42acd312363880f0526068011e208ddc7c0e8c8466099558979510ca07678b4b0cd74638a4e1cfb50008e"
+
+[update]
+[update.modrinth]
+mod-id = "sf8l9B73"
+version = "AEcYG8rE"

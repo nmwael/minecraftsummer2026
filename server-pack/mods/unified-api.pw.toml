@@ -1,0 +1,13 @@
+name = "Unified API"
+filename = "unified-api-26.1-r4.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWUn8M9s/versions/YzBHh7Q2/unified-api-26.1-r4.3-neoforge.jar"
+hash-format = "sha512"
+hash = "5f8b078cfef0bc32144f39fa353ee2df13bd6eb5e9823fb72e6e940b2624525b2144c2443fcb2bda478877535427515ac65fd657c0f8cdc41bce563b1da6658e"
+
+[update]
+[update.modrinth]
+mod-id = "vWUn8M9s"
+version = "YzBHh7Q2"

@@ -1,0 +1,13 @@
+name = "YUNG's Cave Biomes"
+filename = "YungsCaveBiomes-26.1.2-NeoForge-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cs7iGVq1/versions/gSmDx0rS/YungsCaveBiomes-26.1.2-NeoForge-4.1.0.jar"
+hash-format = "sha512"
+hash = "1023fec601e1fe781c1b4677e2a5148e2068d02ccc8dae4ea57fea4f9aa5953c69ee2bb67cabf8df85f21f2c0c1bbc70773bf905be934d138dfd303c5a377d52"
+
+[update]
+[update.modrinth]
+mod-id = "cs7iGVq1"
+version = "gSmDx0rS"

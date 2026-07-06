@@ -1,0 +1,13 @@
+name = "YUNG's Better Caves"
+filename = "YungsBetterCaves-26.1.2-NeoForge-4.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/uDVvNQdm/YungsBetterCaves-26.1.2-NeoForge-4.1.0.jar"
+hash-format = "sha512"
+hash = "59ddd99199b786130b10db1dcaeb35657de129dbf04f5c6a50a371b23fc5720082737f1a3b5db54337a6ca393445ef92a771f59bfa5adb6067ab60574b766c4b"
+
+[update]
+[update.modrinth]
+mod-id = "Dfu00ggU"
+version = "uDVvNQdm"

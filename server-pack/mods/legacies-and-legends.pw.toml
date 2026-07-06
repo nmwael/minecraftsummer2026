@@ -1,0 +1,13 @@
+name = "Legacies and Legends"
+filename = "legacies-and-legends-26.1-r1.9.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJvxBgdw/versions/DNg6Oz4Q/legacies-and-legends-26.1-r1.9.1-neoforge.jar"
+hash-format = "sha512"
+hash = "6ed0087e1ba8cce5a21d3c5ed8d51fac5c00baba1ae2679d9fb28e040c813f209a148bfa0dcae37664b5dddd368ec4bda739aa9b27cdb3a2ebedea17a93bffda"
+
+[update]
+[update.modrinth]
+mod-id = "rJvxBgdw"
+version = "DNg6Oz4Q"

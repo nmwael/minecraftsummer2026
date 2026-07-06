@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc26.1.2-v26.1.2.2.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/MgBOZG7B/fish_of_thieves-mc26.1.2-v26.1.2.2.0-neoforge.jar"
+hash-format = "sha512"
+hash = "41780b9760f1c4e571dd676d667b2837aac5d3e4aeb3a40763aa0faf94575cd2c4bbc6f64c1637fd098fe64a50014fb530a750a59a96f569ca5460a8725a07b0"
+
+[update]
+[update.modrinth]
+mod-id = "BzOTnuqM"
+version = "MgBOZG7B"

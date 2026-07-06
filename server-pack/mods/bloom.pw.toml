@@ -1,0 +1,13 @@
+name = "Bloom"
+filename = "bloom-26.1-r2.6-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FsSlev6X/versions/i4IXgFgZ/bloom-26.1-r2.6-neoforge.jar"
+hash-format = "sha512"
+hash = "47ebf385343fbac17c58009cbf682c22a8eb5cfe95c949644a482f0408e74fae880f5c8ba7b46d41f50417778cedf5acb738dd56ae2377c344dd96f989c4e6e8"
+
+[update]
+[update.modrinth]
+mod-id = "FsSlev6X"
+version = "i4IXgFgZ"

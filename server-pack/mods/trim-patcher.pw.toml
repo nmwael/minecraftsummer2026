@@ -1,0 +1,13 @@
+name = "Trim Patcher"
+filename = "Trim Patcher-2.1-mc26.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bNK1MS7o/versions/Dx6JqHzq/Trim%20Patcher-2.1-mc26.1-neoforge.jar"
+hash-format = "sha512"
+hash = "9b533378898900d7f46e08e176646db8e6bae27b896d9e5199b6288b8a4ffe5b56ebaecddf0f5a725be486cfbdc9fcc3c0f964e76959a324ed7bf8c2a955f13c"
+
+[update]
+[update.modrinth]
+mod-id = "bNK1MS7o"
+version = "Dx6JqHzq"

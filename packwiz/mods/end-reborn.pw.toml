@@ -1,0 +1,13 @@
+name = "End Reborn"
+filename = "end-reborn-26.1-r1.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYJwCO7t/versions/1hPJWftI/end-reborn-26.1-r1.3-neoforge.jar"
+hash-format = "sha512"
+hash = "66cfd943f2e92d88002b77746b7b80c2f385f55a79e8c3eab61da51f9c120748ed74f817adaab4349c8e30a9471be161f0d9ca86cbd8f972eda60f9ba9ba957f"
+
+[update]
+[update.modrinth]
+mod-id = "eYJwCO7t"
+version = "1hPJWftI"
