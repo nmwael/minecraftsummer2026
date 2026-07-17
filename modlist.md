@@ -32,10 +32,12 @@
 | [YUNG's Extras](https://modrinth.com/mod/yungs-extras) | NeoForge | Collection of vanilla+ structures and features: chimneys, wells, wall ruins, small quality-of-life worldgen improvements. v6.1.0 for 26.1.2 NeoForge. |
 | [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) | NeoForge | Naturally-generated bridges spanning rivers, ravines, and valleys. Great for exploration and navigation. 26.1.2 NeoForge. |
 | [Legacies and Legends](https://modrinth.com/mod/legacies-and-legends) | NeoForge | Complete exploration, loot and lore expansion — new structures, artifacts, and discoveries. Vanilla+. v1.9.1 for 26.1 NeoForge. Requires Unified API + Trim Patcher. |
-| [End Reborn](https://modrinth.com/mod/end-reborn) | NeoForge | Lightweight vanilla-style End dimension expansion: new biomes, blocks, items. By Rebel459. v1.3 for 26.1 NeoForge. |
+| [Stellarity](https://modrinth.com/mod/stellarity) | NeoForge | Complete End dimension overhaul: new biomes, mobs, structures, bosses, and gear. v5.5.3 for 26.1.2 NeoForge. No dependencies. Replaces End Reborn. |
 | [Bloom](https://modrinth.com/mod/bloom) | NeoForge | Vanilla-style Overworld expansion: new biomes, flora, blocks, crops. By Rebel459. v2.6 for 26.1 NeoForge. |
 | [The Undergarden](https://modrinth.com/mod/the-undergarden) | NeoForge | Underground dimension with unique biomes, mobs, blocks, and gear. Massive content mod. v0.9.7 for 26.1.2 NeoForge (beta). No dependencies. |
+| [Underground Worlds](https://modrinth.com/mod/underground-worlds) | NeoForge | Adds underground biomes, dungeons, and above-ground structures. Modular & configurable. v3.1.3 for 26.1 NeoForge. Optional deps: TerraBlender, Lithostitched. Uses Lithostitched for biome integration. |
 | [Dungeons Dimensions: Nether](https://modrinth.com/mod/dungeons-dimensions-nether) | NeoForge | Adds terrain and content from Minecraft Dungeons to the Nether — new biomes, decoration blocks. v1.3.3 for 26.1.2 NeoForge. |
+| [Grim kingdoms: Lost structures & ruins](https://modrinth.com/datapack/grim-kingdoms-lost-structures-ruins) | Any (datapack/mod) | 100+ fantasy structures: forts, citadels, castles, towers, ships — with vanilla mobs and hidden items. v2.0.1 for 26.1.2. Compatible with Terralith, BOP. |
 
 > **Lost:** CTOV, When Dungeons Arise, Stoneholm — still stuck at 1.21.x or older.
 
@@ -89,6 +91,7 @@
 | [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) | NeoForge | Adds mobs from Minecraft Earth (Moobloom, etc). Requires [Bagus Lib](https://www.curseforge.com/minecraft/mc-mods/bagus-lib). 26.1.2 NeoForge. |
 | [Respawning Animals](https://modrinth.com/mod/respawning-animals) | NeoForge | Animals respawn like monsters so they never go extinct. 26.1.x NeoForge. Requires [Puzzles Lib](https://modrinth.com/mod/puzzles-lib). |
 | [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves) | NeoForge | Adds all fish from Sea of Thieves — decorative fish, new fishing mechanics, and fish-based foods. MIT. v2.2.0 for 26.1.2 NeoForge. Family-friendly fishing fun. |
+| [Grimoire of Gaia](https://modrinth.com/mod/grimoire-of-gaia) | NeoForge | Adds 90+ new fantasy mobs (fairies, demons, undead, animals) that spawn naturally. Gives loot drops, unique mechanics. v7.0.0-alpha.2 for 26.1.2 NeoForge. No dependencies. |
 
 > **Lost:** Adorable Hamster Pets (stuck at 1.21.1). No direct replacement yet — the dev plans to port forward. For now, Alex's Mobs + Companion + Earth Mobs + Fish of Thieves + vanilla pets fill the pet slot. Check back for Hamster Pets 26.x port.
 

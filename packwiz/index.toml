@@ -144,11 +144,6 @@ hash = "b13084700bdc4def5e995d7a806e1d818e2173a8ac8655b28ecf66f4bbdb7e99"
 metafile = true
 
 [[files]]
-file = "mods/end-reborn.pw.toml"
-hash = "9b8b6aeaed767d477967dc336ff7f727b72d3aa3a9de4715107f2a6aa4b19f7b"
-metafile = true
-
-[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "f871491abaffbc9f1324377525c4cbf47d46ffdf65def452b2816a009ead74aa"
 metafile = true
@@ -261,6 +256,16 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "0b241eaf4020f55632c9e14f271f61517b89f8e49e15c9067e9a4484c8405511"
+metafile = true
+
+[[files]]
+file = "mods/grim-kingdoms-lost-structures-ruins.pw.toml"
+hash = "194435e4a985ce01c6df48bd9c52070cd23762b817625b5f9608de964f280dd5"
+metafile = true
+
+[[files]]
+file = "mods/grimoire-of-gaia.pw.toml"
+hash = "1c072585f31413dd57664e22ba09ea2637a2e2a8f240d34e155d802775c61a4e"
 metafile = true
 
 [[files]]
@@ -504,6 +509,11 @@ hash = "ddd290f71556983130f59afd525c8d61cd34549450a851f32a340332a1670124"
 metafile = true
 
 [[files]]
+file = "mods/stellarity.pw.toml"
+hash = "913c87f06857600de2525cfece6fb0c61a448fbb6f0fe58a16fc789fefa1c190"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "04e2f68110f8169bf8a0b0f9f768f857d03c2d8b389e6d0b0a4af802e02dd68e"
 metafile = true
@@ -546,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/trim-patcher.pw.toml"
 hash = "32d53b4bcd67189e05a9f70a18dec670e0004f5f7451769c14e05a94822ca7ea"
+metafile = true
+
+[[files]]
+file = "mods/underground-worlds.pw.toml"
+hash = "1b03273ca374e4cc74d2a54965cd671372ed17e376a6ffd15a016946aebe0825"
 metafile = true
 
 [[files]]
