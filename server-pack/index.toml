@@ -9,6 +9,10 @@ file = "config/alexsmobs-common.toml"
 hash = "e69520bb365a7a44c1fc9c473cfef5aa7055ee460fff9381d129394ebd175870"
 
 [[files]]
+file = "kubejs/server_scripts/croptopia_cfb_compat.js"
+hash = "4160865db72aef2b3430ce7503c243ed4c25a5a4868f92b62ab7b3fec1fbdf31"
+
+[[files]]
 file = "mods/aether-ii.pw.toml"
 hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
 metafile = true
@@ -289,6 +293,11 @@ hash = "2e1fa4d0e1651bd4a25b7afd5d9b58e6800015c4273a1134969cbae14a739c67"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1c541efbabd192f6d41ff8dc7e87f30424bfa47045fce0b7cb17307b2fab835a"
+metafile = true
+
+[[files]]
 file = "mods/l2library.pw.toml"
 hash = "4a26c9be4f9aed9c01ff6cf88994c863da05c62822d9690c18925052c7de6e0a"
 metafile = true
@@ -421,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "708caff4aeb49d31fc96004ee3879df44d19cf6f42e76c17314cbff54e9617d6"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]

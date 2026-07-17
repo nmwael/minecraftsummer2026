@@ -9,6 +9,10 @@ file = "config/fallingtree-common.json5"
 hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
 [[files]]
+file = "kubejs/server_scripts/croptopia_cfb_compat.js"
+hash = "4160865db72aef2b3430ce7503c243ed4c25a5a4868f92b62ab7b3fec1fbdf31"
+
+[[files]]
 file = "mods/aether-ii.pw.toml"
 hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
 metafile = true
@@ -329,6 +333,11 @@ hash = "6f863fd95ac5ac1689c622b8f511b8b8bbd4eb5ba7414d124f0bfb0c1e1e7205"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1c541efbabd192f6d41ff8dc7e87f30424bfa47045fce0b7cb17307b2fab835a"
+metafile = true
+
+[[files]]
 file = "mods/l2library.pw.toml"
 hash = "4a26c9be4f9aed9c01ff6cf88994c863da05c62822d9690c18925052c7de6e0a"
 metafile = true
@@ -481,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "1437e5258c4b7c5178babdabc5da160ddbe82b3aab184cccbfde3b7451e773fb"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
