@@ -34,6 +34,7 @@
 | [Legacies and Legends](https://modrinth.com/mod/legacies-and-legends) | NeoForge | Complete exploration, loot and lore expansion — new structures, artifacts, and discoveries. Vanilla+. v1.9.1 for 26.1 NeoForge. Requires Unified API + Trim Patcher. |
 | [End Reborn](https://modrinth.com/mod/end-reborn) | NeoForge | Lightweight vanilla-style End dimension expansion: new biomes, blocks, items. By Rebel459. v1.3 for 26.1 NeoForge. |
 | [Bloom](https://modrinth.com/mod/bloom) | NeoForge | Vanilla-style Overworld expansion: new biomes, flora, blocks, crops. By Rebel459. v2.6 for 26.1 NeoForge. |
+| [The Undergarden](https://modrinth.com/mod/the-undergarden) | NeoForge | Underground dimension with unique biomes, mobs, blocks, and gear. Massive content mod. v0.9.7 for 26.1.2 NeoForge (beta). No dependencies. |
 | [Dungeons Dimensions: Nether](https://modrinth.com/mod/dungeons-dimensions-nether) | NeoForge | Adds terrain and content from Minecraft Dungeons to the Nether — new biomes, decoration blocks. v1.3.3 for 26.1.2 NeoForge. |
 
 > **Lost:** CTOV, When Dungeons Arise, Stoneholm — still stuck at 1.21.x or older.

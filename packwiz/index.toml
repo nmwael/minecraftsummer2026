@@ -519,6 +519,11 @@ hash = "409d1f1e30b25f6bacd0d7ae39ab7ce91cf5207c7b6e47b110966a2342f01848"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "bfc920ca2cae4f814cc8fb161b80a50937652d3b365c07aa280d0d4ced3ce974"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
 metafile = true

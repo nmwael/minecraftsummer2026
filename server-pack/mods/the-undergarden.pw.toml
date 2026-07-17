@@ -1,0 +1,13 @@
+name = "The Undergarden"
+filename = "The_Undergarden-26.1.2-0.9.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ejfl5qDL/versions/eSzOSZeP/The_Undergarden-26.1.2-0.9.7.jar"
+hash-format = "sha512"
+hash = "5f07b037a06782cb3ddc7fb9cde60a4400d0abb6430a56d014a4777ff60d607d44338d99b5246e0e506f2192f561908f2272abfed307010a6915c9f0d1f1ae68"
+
+[update]
+[update.modrinth]
+mod-id = "Ejfl5qDL"
+version = "eSzOSZeP"
