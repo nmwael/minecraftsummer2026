@@ -38,6 +38,7 @@
 | [Underground Worlds](https://modrinth.com/mod/underground-worlds) | NeoForge | Adds underground biomes, dungeons, and above-ground structures. Modular & configurable. v3.1.3 for 26.1 NeoForge. Optional deps: TerraBlender, Lithostitched. Uses Lithostitched for biome integration. |
 | [Dungeons Dimensions: Nether](https://modrinth.com/mod/dungeons-dimensions-nether) | NeoForge | Adds terrain and content from Minecraft Dungeons to the Nether — new biomes, decoration blocks. v1.3.3 for 26.1.2 NeoForge. |
 | [Grim kingdoms: Lost structures & ruins](https://modrinth.com/datapack/grim-kingdoms-lost-structures-ruins) | Any (datapack/mod) | 100+ fantasy structures: forts, citadels, castles, towers, ships — with vanilla mobs and hidden items. v2.0.1 for 26.1.2. Compatible with Terralith, BOP. |
+| [The Aether II](https://modrinth.com/mod/aether-ii) | NeoForge | Sky dimension with unique biomes, dungeons, and gear. Full content mod. v26.1.2-alpha.4-neoforge. Embeds Cumulus library. **Alpha** — may have issues. |
 
 > **Lost:** CTOV, When Dungeons Arise, Stoneholm — still stuck at 1.21.x or older.
 

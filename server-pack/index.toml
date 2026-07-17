@@ -9,6 +9,11 @@ file = "config/alexsmobs-common.toml"
 hash = "e69520bb365a7a44c1fc9c473cfef5aa7055ee460fff9381d129394ebd175870"
 
 [[files]]
+file = "mods/aether-ii.pw.toml"
+hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-neoforge.pw.toml"
 hash = "9698efd7b54a2dd948d16a86e29410bd4127297b93fef89217791a9cd6f3ac4e"
 metafile = true

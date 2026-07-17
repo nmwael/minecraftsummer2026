@@ -9,6 +9,11 @@ file = "config/fallingtree-common.json5"
 hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
 [[files]]
+file = "mods/aether-ii.pw.toml"
+hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-neoforge.pw.toml"
 hash = "9698efd7b54a2dd948d16a86e29410bd4127297b93fef89217791a9cd6f3ac4e"
 metafile = true

@@ -1,0 +1,13 @@
+name = "The Aether II"
+filename = "aether_ii-26.1.2-alpha.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JD2NSu5O/versions/Qsxsn6rl/aether_ii-26.1.2-alpha.4-neoforge.jar"
+hash-format = "sha512"
+hash = "bec39312d06be124c1d34c7097d7c6a247f71be679c2ea4d36c86d628108eee62f87be00a4196d449be96c46100d4edfa537d20a7c9c8c23c23fcf8326227fba"
+
+[update]
+[update.modrinth]
+mod-id = "JD2NSu5O"
+version = "Qsxsn6rl"
