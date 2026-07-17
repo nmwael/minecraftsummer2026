@@ -14,7 +14,7 @@ hash = "a808b92786f773936795ce43d75547244dcb8a202105727d41f81cd29001c6cb"
 
 [[files]]
 file = "kubejs/server_scripts/croptopia_cfb_compat.js"
-hash = "187a4b6ede57e2f843a8e8171d7cde156b37075d34f9d557ecdcc14b96c411b8"
+hash = "e19eb6251a4543c376a27db6a9e0b6641b15d226628c065639187e36965cb7a1"
 
 [[files]]
 file = "mods/aether-ii.pw.toml"
@@ -424,8 +424,6 @@ metafile = true
 [[files]]
 file = "mods/maple.pw.toml"
 hash = "411eea84e8a743bee07ca3d3c647b3c446bcefff43c1ab42581ce883cd5ca4d8"
-metafile = true
-
 metafile = true
 
 [[files]]
