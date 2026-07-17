@@ -10,7 +10,7 @@ hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
 [[files]]
 file = "kubejs/server_scripts/croptopia_cfb_compat.js"
-hash = "4160865db72aef2b3430ce7503c243ed4c25a5a4868f92b62ab7b3fec1fbdf31"
+hash = "3d66cb25a89710c3838897fea005cf29bdb23a0d5ce972477a8458d678f8fb76"
 
 [[files]]
 file = "mods/aether-ii.pw.toml"
