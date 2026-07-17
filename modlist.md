@@ -52,7 +52,6 @@
 | [Lio's Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | NeoForge | (listed above) Makes existing villages bigger and more detailed. |
 | [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) | NeoForge | 6 new villager professions with unique trades. Latest official: 1.21.11 NeoForge. 26.1.2 build reported but unverified — check before adding. |
 | [Guard Villagers](https://modrinth.com/mod/guard-villagers) | NeoForge | Adds armed guards to villages (iron sword or crossbow). Can be equipped with armor/shields. Patrol, follow, and defend. Clerics heal them, smiths repair their gear. 26.1.x NeoForge. |
-| [Millager (Village Defenders)](https://modrinth.com/mod/millager) | NeoForge | Adds infantry-and-cavalry armed villager faction with AI patrols, raid reinforcement waves, and garrisoned command posts. v0.5.1 for 26.1.2 NeoForge. Fits Child A's village interest. |
 
 > **Note:** No heavy colony mod (MineColonies-style) included — all three players preferred simpler village enhancement over full colony management.
 

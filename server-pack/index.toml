@@ -376,9 +376,6 @@ file = "mods/maple.pw.toml"
 hash = "411eea84e8a743bee07ca3d3c647b3c446bcefff43c1ab42581ce883cd5ca4d8"
 metafile = true
 
-[[files]]
-file = "mods/millager.pw.toml"
-hash = "8a4d1add93a6a2407188c0c256ddcd06fea5dcf62ea315db62cb9f41adea7bef"
 metafile = true
 
 [[files]]
