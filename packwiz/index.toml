@@ -9,8 +9,12 @@ file = "config/fallingtree-common.json5"
 hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
 [[files]]
+file = "config/infernalmobs.json"
+hash = "a808b92786f773936795ce43d75547244dcb8a202105727d41f81cd29001c6cb"
+
+[[files]]
 file = "kubejs/server_scripts/croptopia_cfb_compat.js"
-hash = "3d66cb25a89710c3838897fea005cf29bdb23a0d5ce972477a8458d678f8fb76"
+hash = "187a4b6ede57e2f843a8e8171d7cde156b37075d34f9d557ecdcc14b96c411b8"
 
 [[files]]
 file = "mods/aether-ii.pw.toml"
