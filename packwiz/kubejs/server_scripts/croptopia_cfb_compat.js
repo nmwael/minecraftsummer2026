@@ -9,6 +9,10 @@ ServerEvents.tags('item', event => {
   event.add('cookingforblockheads:water', 'croptopia:water_bottle')
 
   event.add('cookingforblockheads:ingredients', 'maple:salt')
+  event.add('croptopia:salts', 'maple:salt')
+  event.add('croptopia:salts', 'croptopia:salt')
+  event.add('croptopia:ground_pork', 'croptopia:ground_pork')
+  event.add('croptopia:paprika', 'croptopia:paprika')
   event.add('cookingforblockheads:ingredients', 'maple:flour')
   event.add('cookingforblockheads:ingredients', 'maple:maple_syrup')
   event.add('cookingforblockheads:ingredients', 'maple:cream')
@@ -64,6 +68,6 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'croptopia:sausage' })
   event.shapeless(
     Item.of('croptopia:sausage', 1),
-    ['#c:ground_pork', '#c:salts', '#c:paprika']
+    ['#croptopia:ground_pork', '#croptopia:salts', '#croptopia:paprika']
   )
 })
