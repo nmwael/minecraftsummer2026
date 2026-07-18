@@ -86,7 +86,6 @@
 | [Citadel (NeoForge)](https://www.curseforge.com/minecraft/mc-mods/citadel-neoforge) | NeoForge | Required by Alex's Mobs. Ported to 26.1. |
 | [Companion](https://modrinth.com/mod/companion) | NeoForge | Pet quality-of-life: pets teleport when hurt, enter portals, heal automatically. Lightweight (~40KB). 26.1.1 NeoForge. |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | NeoForge | Smaller bees (25% size), larger group spawns, bigger hive capacity (20 bees). Configurable. Lightweight. 26.1.x NeoForge. Requires [Collective](https://modrinth.com/mod/collective). |
-| [Modular Golems](https://modrinth.com/mod/modular-golems) | NeoForge | Craftable metal golems with modular parts (copper, iron, gold, netherite, skulk). 3 types: metal, humanoid, dog. Swappable parts + upgrades. 26.1.2 NeoForge. LGPL-2.1. Requires [L2Library](https://modrinth.com/mod/l2library). |
 | [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders) | NeoForge | Underground goblin traders with rare enchanted gear, XP potions, unique trades. Found in caves (Overworld) and Nether. By MrCrayfish. 26.1.2 NeoForge. Requires [Framework](https://www.curseforge.com/minecraft/mc-mods/framework). |
 | [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) | NeoForge | Adds mobs from Minecraft Earth (Moobloom, etc). Requires [Bagus Lib](https://www.curseforge.com/minecraft/mc-mods/bagus-lib). 26.1.2 NeoForge. |
 | [Respawning Animals](https://modrinth.com/mod/respawning-animals) | NeoForge | Animals respawn like monsters so they never go extinct. 26.1.x NeoForge. Requires [Puzzles Lib](https://modrinth.com/mod/puzzles-lib). |
@@ -174,7 +173,6 @@
 | [Iceberg](https://modrinth.com/mod/iceberg) | NeoForge | Required by Legendary Tooltips. Library for item tooltip utilities. 26.1.x NeoForge. |
 | [Prism](https://modrinth.com/mod/prism-lib) | NeoForge | Required by Legendary Tooltips v1.3+. Config library. 26.1.x NeoForge. |
 | [Collective](https://modrinth.com/mod/collective) | NeoForge | Required by Realistic Bees (and many other Serilum mods). Common utility library. 26.1.x NeoForge. |
-| [L2Library](https://modrinth.com/mod/l2library) | NeoForge | Required by Modular Golems. Library for modular equipment systems. 26.1.2 NeoForge. |
 | [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) | NeoForge | Required by Goblin Traders (and other MrCrayfish mods). Lightweight library, avoids Mixins for max compat. v0.13.23 for 26.1.2 NeoForge. LGPL-2.1. |
 | [Fragmentum](https://www.curseforge.com/minecraft/mc-mods/fragmentum-neoforge) | NeoForge | Required by Pillager Caravans. Lightweight core framework for Obscuria Collection mods. 26.1.2 NeoForge. |
 | [Bagus Lib](https://www.curseforge.com/minecraft/mc-mods/bagus-lib) | NeoForge | Required by Earth Mobs. Utility library for entity/animation helpers. 26.1.2 NeoForge. |

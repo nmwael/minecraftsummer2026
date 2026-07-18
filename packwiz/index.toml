@@ -17,6 +17,10 @@ file = "kubejs/server_scripts/croptopia_cfb_compat.js"
 hash = "e19eb6251a4543c376a27db6a9e0b6641b15d226628c065639187e36965cb7a1"
 
 [[files]]
+file = "kubejs/server_scripts/pet-invulnerability.js"
+hash = "cc1df55d5badb9f4f71a43289be526bfdc70edc5f50ecb4beee6bc185dd3b052"
+
+[[files]]
 file = "mods/aether-ii.pw.toml"
 hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
 metafile = true
@@ -342,11 +346,6 @@ hash = "1c541efbabd192f6d41ff8dc7e87f30424bfa47045fce0b7cb17307b2fab835a"
 metafile = true
 
 [[files]]
-file = "mods/l2library.pw.toml"
-hash = "4a26c9be4f9aed9c01ff6cf88994c863da05c62822d9690c18925052c7de6e0a"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "4af50837d039d8b8a8857674033cbc87e90c441de2c296b2bd80a70ee04d3c96"
 metafile = true
@@ -434,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "f8e113d36443c0d8387df3daf6c8f28e35f4f090353b8e19c3532577b6d48e88"
-metafile = true
-
-[[files]]
-file = "mods/modular-golems.pw.toml"
-hash = "ea64e2414af5d3debf3bb1df4184ab5f2c2fdd2a263568f94ef29b8f0cfc8fe2"
 metafile = true
 
 [[files]]
