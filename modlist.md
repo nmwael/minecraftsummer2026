@@ -113,7 +113,6 @@
 | Mod | Loader | Notes |
 |---|---|---|
 | [Tricky Trials +](https://modrinth.com/mod/tricky-trials-+) | NeoForge | Ominous Trial Chamber structure with unique vault blocks and a new boss fight. Vanilla-style, family-friendly. 26.1.2 NeoForge. |
-| [n643064's Battle Towers](https://www.curseforge.com/minecraft/mc-mods/n643064s-battle-towers) | NeoForge | Multi-floor tower dungeons with monster spawners, loot chests, and a Wither Skeleton boss. Lightweight. 26.1.2 NeoForge. |
 | [Fortress of War](https://www.curseforge.com/minecraft/mc-mods/fortress-of-war) | NeoForge | Overhauls Nether Fortresses with staged combat, custom loot, and the Fortress Matrix boss. Universal jar. 26.1.2 NeoForge. |
 | [Pillager Caravans](https://modrinth.com/mod/pillager-caravans) | NeoForge | Roaming pillager convoys with biome-themed loot, guarded by pillagers/vindicators/ravagers. Dynamic world encounters. 26.1.x NeoForge. Requires [Fragmentum](https://www.curseforge.com/minecraft/mc-mods/fragmentum-neoforge). |
 
@@ -224,7 +223,7 @@
 - Building Gadgets (rapid building tools)
 - Skniro's Furniture + Fantasy's Furniture (furniture variety)
 - Explorify + Dungeons and Taverns + Moog's Soaring Structures (adventure/structures)
-- Tricky Trials + Battle Towers + Fortress of War (boss fights/combat)
+- Tricky Trials + Fortress of War (boss fights/combat)
 - Croptopia + RightClickHarvest + Crop Critters (farming/food overhaul — 250+ foods, 58 crops, helper mobs)
 - **YUNG's full suite** (Cave Biomes, Better Dungeons, Better Mineshafts, Better Strongholds, Better Caves, Extras, Bridges) — all now available for 26.1.2
 - Legacies and Legends + End Reborn + Bloom (vanilla+ exploration/lore/content expansion)

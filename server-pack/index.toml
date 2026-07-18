@@ -52,11 +52,6 @@ hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
 
 [[files]]
-file = "mods/battle-towers.pw.toml"
-hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
-metafile = true
-
-[[files]]
 file = "mods/beautify-refoxed.pw.toml"
 hash = "b84b513a41c03a1135d3ade08bfba806128c7fc5f502688197a0995714dd4def"
 metafile = true
