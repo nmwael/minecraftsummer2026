@@ -122,11 +122,6 @@ hash = "cf038801171962d4dd045f02d95f7d06fdea61a34e46e2fae0d40faf4ba1326c"
 metafile = true
 
 [[files]]
-file = "mods/crop-critters.pw.toml"
-hash = "1638f2cd3be282176b0e20d4a664c3ccf8a96881c51cc4567d4fecc38fe3bd58"
-metafile = true
-
-[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
 metafile = true

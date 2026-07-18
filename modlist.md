@@ -104,8 +104,7 @@
 | [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) | NeoForge | Required by Croptopia. Library mod by thethonk. v1.3.0 for 26.1 NeoForge. |
 | [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | NeoForge | Right-click to harvest & replant crops. Configurable. v4.6.2 for 26.1.x NeoForge. Requires JamLib. |
 | [JamLib](https://modrinth.com/mod/jamlib) | NeoForge | Required by RightClickHarvest. Lightweight utility library. v2.3.1 for 26.1.x NeoForge. |
-| [Crop Critters](https://modrinth.com/mod/crop-critters) | NeoForge | Fully-grown crops have 8% chance to turn into helper mobs. Fun, family-friendly farm helpers. v1.4.2 for 26.1.2 NeoForge. Requires GeckoLib. |
-| [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
+| [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by many mods. v5.5.2 for 26.1.2 NeoForge. |
 
 ---
 

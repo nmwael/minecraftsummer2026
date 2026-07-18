@@ -1,12 +1,12 @@
 name = "Summer 2026 Survival"
 author = "minecraftsummer2026"
-version = "1.5.8"
+version = "1.5.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fa418798f9f75a056f071383ae8c2ed120d789872fc9b18063f3af3b809f3e84"
+hash = "b1b9d10d802bc6f9dea90c8d6d3c9421c3be43fd95716d5b63260aaf16f149ea"
 
 [versions]
 minecraft = "26.1.2"
