@@ -14,7 +14,7 @@ hash = "e19eb6251a4543c376a27db6a9e0b6641b15d226628c065639187e36965cb7a1"
 
 [[files]]
 file = "kubejs/server_scripts/pet-invulnerability.js"
-hash = "02ce4f1d205af16180d27a2abc83d3d0ad9860bd43cf5fef22bc2769b6257c2f"
+hash = "e1e0275aa6ca8310457a3a88ffa045fecb46f9bcc5b0466421c5a3266aef0f67"
 
 [[files]]
 file = "mods/aether-ii.pw.toml"
