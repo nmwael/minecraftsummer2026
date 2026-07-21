@@ -3,7 +3,7 @@
 **Minecraft:** 26.1.2  
 **Loader:** NeoForge 26.1.2  
 **Java:** 25 (required by 26.x)  
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-14
 
 ---
 
@@ -72,9 +72,8 @@
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) | NeoForge | Exchange/wand/copy-paste gadgets for rapid building. Excellent for child B's large creative builds. v1.4.6 for 26.1.2 NeoForge (Apr 2026). |
 | [Skniro's Furniture](https://modrinth.com/mod/skniros-furniture) | NeoForge | 100+ furniture blocks: kitchens, sofas, shelves, desks, sliding doors, ceiling lights. All wood/clay variants. MIT license. v1.5.1 for 26.1.2 NeoForge. |
 | [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture) | NeoForge | Fantasy-themed furniture sets (Nordic, Venthyr, Royal, Bone, Skeleton, Wither). ApexCore embedded since 1.19 — no separate dep needed. v26.1.7 for 26.1.2 NeoForge. ARR. |
-| [Maple](https://modrinth.com/mod/maple) | NeoForge | Adds maple trees with red/orange/yellow foliage, plus backports cherry and bamboo wood sets. By skniro. v1.5.5 for 26.1.2 NeoForge. MIT. Perfect for Child B's decorative builds. |
 
-> **Lost:** Supplementaries, Decorative Blocks, Let's Do Furniture, Handcrafted, Chipped — all stuck at 1.21.x or older. Macaw's全套 + Beautify: ReFoxed + Building Gadgets + Skniro's Furniture + Fantasy's Furniture + Maple cover all decoration needs.
+> **Lost:** Supplementaries, Decorative Blocks, Let's Do Furniture, Handcrafted, Chipped — all stuck at 1.21.x or older. Macaw's全套 + Beautify: ReFoxed + Building Gadgets + Skniro's Furniture + Fantasy's Furniture cover all decoration needs.
 
 ---
 
@@ -159,6 +158,7 @@
 | [FTB Chunks](https://modrinth.com/mod/ftb-chunks) | NeoForge | Claim chunks to prevent griefing. 26.1.2 NeoForge. |
 | [FTB Teams](https://modrinth.com/mod/ftb-teams) | NeoForge | Required by FTB Chunks. Shared claims. 26.1.2 NeoForge. |
 | [FTB Library](https://modrinth.com/mod/ftb-library) | NeoForge | Required dependency for FTB mods. 26.1.2 NeoForge. |
+| [ServerCore](https://modrinth.com/mod/servercore) | NeoForge | Dynamic view distance, mobcap management, entity processing optimization. Lightweight, no client-side impact. v1.5.19+26.1.2 NeoForge. |
 
 ## Category: Library Dependencies
 
@@ -180,6 +180,7 @@
 | [Unified API](https://modrinth.com/mod/unified-api) | NeoForge | Required by Legacies and Legends. Shared API/library for multi-loader mods. v4.3 for 26.1 NeoForge. |
 | [Trim Patcher](https://modrinth.com/mod/trim-patcher) | NeoForge | Required by Legacies and Legends. Patches armor trim rendering for modded items. v2.1 for 26.1 NeoForge. |
 | [Item Tooltips](https://modrinth.com/mod/item-tooltips) | NeoForge | Required by Legacies and Legends. Adds configurable durability, attribute, item/enchantment description tooltips + tooltip wrapping. Server-optional but hard dependency of L&L. v26.1-r2.3-neoforge. |
+| [Patchouli](https://modrinth.com/mod/patchouli) | NeoForge | Required by Grimoire of Gaia (in-game guidebook). v26.1-94-beta for 26.1 NeoForge. |
 
 ---
 
@@ -197,7 +198,7 @@
 - **OptiFine** — conflicts with Sodium. Use Iris + shader packs instead (Iris is included).
 - **Embeddium/Radium** — not needed. Native Sodium + Lithium are bundled.
 - **Optimized FPS** — not needed as a separate install. The key mods (Sodium, Iris, Lithium, ModernFix, FerriteCore) are included directly.
-- **C2ME** — REMOVED (v1.5.11). Alpha quality caused "unregistered feature" crash with Maple mod's village structures. Not needed on i7-2600 hardware.
+- **C2ME** — Re-added v1.6.0. Alpha quality, but crash was caused by Maple mod (now removed). Provides faster chunk generation on slow hardware. Monitor for issues.
 - **Fusion (Connected Textures)** — not included. Add if you want connected glass/textures.
 
 ### What's Different from 1.20.1
@@ -228,6 +229,6 @@
 - **YUNG's full suite** (Cave Biomes, Better Dungeons, Better Mineshafts, Better Strongholds, Better Caves, Extras, Bridges) — all now available for 26.1.2
 - Legacies and Legends + End Reborn + Bloom (vanilla+ exploration/lore/content expansion)
 - Millager (village defenders) + Fish of Thieves (fishing expansion)
-- Maple (new tree type for decoration) + Dungeons Dimensions: Nether (Nether terrain)
+- Dungeons Dimensions: Nether (Nether terrain) + ServerCore (dynamic view distance, mobcap management)
 - Better mod ecosystem — all new mods target 26.x going forward
 - No obfuscation — modding ecosystem healthier, fewer crashes
