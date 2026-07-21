@@ -86,6 +86,11 @@ hash = "5e63f44ba5113b18ee66c51f06c5e7a56112784130aa9051d9bedaaf64654933"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "70f380703f9f3a009f007efdcf7909b6d0cfec77393110aa501dde8479509297"
+metafile = true
+
+[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
@@ -401,11 +406,6 @@ hash = "5173467aec6f9cc007022cfb334adc60b4cf8233d559f58540d2b9efc786ad26"
 metafile = true
 
 [[files]]
-file = "mods/maple.pw.toml"
-hash = "411eea84e8a743bee07ca3d3c647b3c446bcefff43c1ab42581ce883cd5ca4d8"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
 metafile = true
@@ -473,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "20ddf0b84d38cda161a59880fd216580d011d666d1401b118ee03f3d3e3db689"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "b0abccec2bf7b3a02496e950421e9012d50ddaa8a6fe1d0446cd2570cf0ef7a2"
 metafile = true
 
 [[files]]
