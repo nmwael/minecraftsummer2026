@@ -1,0 +1,13 @@
+name = "ApexCompatibilities"
+filename = "apexcompatibilities-26.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "253b7c71c892829dbeb5a2e5eb9a96f70f78ebd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8275411
+project-id = 1194521

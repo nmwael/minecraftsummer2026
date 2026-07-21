@@ -72,6 +72,7 @@
 | [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) | NeoForge | Exchange/wand/copy-paste gadgets for rapid building. Excellent for child B's large creative builds. v1.4.6 for 26.1.2 NeoForge (Apr 2026). |
 | [Skniro's Furniture](https://modrinth.com/mod/skniros-furniture) | NeoForge | 100+ furniture blocks: kitchens, sofas, shelves, desks, sliding doors, ceiling lights. All wood/clay variants. MIT license. v1.5.1 for 26.1.2 NeoForge. |
 | [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture) | NeoForge | Fantasy-themed furniture sets (Nordic, Venthyr, Royal, Bone, Skeleton, Wither). ApexCore embedded since 1.19 — no separate dep needed. v26.1.7 for 26.1.2 NeoForge. ARR. |
+| [ApexCompatibilities](https://www.curseforge.com/minecraft/mc-mods/apexcompatibilities) | NeoForge | JEI/REI integration for Fantasy's Furniture recipes. Required to see Furniture Station recipes in recipe viewers. v26.1.8 for 26.1.2 NeoForge. |
 
 > **Lost:** Supplementaries, Decorative Blocks, Let's Do Furniture, Handcrafted, Chipped — all stuck at 1.21.x or older. Macaw's全套 + Beautify: ReFoxed + Building Gadgets + Skniro's Furniture + Fantasy's Furniture cover all decoration needs.
 
@@ -177,6 +178,7 @@
 | [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) | NeoForge | Required by Croptopia. Library mod by thethonk. v1.3.0 for 26.1 NeoForge. |
 | [JamLib](https://modrinth.com/mod/jamlib) | NeoForge | Required by RightClickHarvest. Lightweight utility library. v2.3.1 for 26.1.x NeoForge. |
 | [GeckoLib](https://modrinth.com/mod/geckolib) | NeoForge | Animation library required by Crop Critters (and many other mods). v5.5.2 for 26.1.2 NeoForge. |
+| [ApexCompatibilities](https://modrinth.com/mod/apexcompatibilities) | NeoForge | JEI/REI integration for Fantasy's Furniture recipes. Required to see Furniture Station recipes in recipe viewers. v26.1.8 for 26.1.2 NeoForge. |
 | [Unified API](https://modrinth.com/mod/unified-api) | NeoForge | Required by Legacies and Legends. Shared API/library for multi-loader mods. v4.3 for 26.1 NeoForge. |
 | [Trim Patcher](https://modrinth.com/mod/trim-patcher) | NeoForge | Required by Legacies and Legends. Patches armor trim rendering for modded items. v2.1 for 26.1 NeoForge. |
 | [Item Tooltips](https://modrinth.com/mod/item-tooltips) | NeoForge | Required by Legacies and Legends. Adds configurable durability, attribute, item/enchantment description tooltips + tooltip wrapping. Server-optional but hard dependency of L&L. v26.1-r2.3-neoforge. |

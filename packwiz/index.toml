@@ -36,6 +36,11 @@ hash = "7cae1a04ecff1c8fb622c3b1512dbf603166edd2109ffb292c375af87509671b"
 metafile = true
 
 [[files]]
+file = "mods/apexcompatibilities.pw.toml"
+hash = "84cb0000cc1620f2e7001583d31f6196746c0bab5ed61fc00b7b9e9f854b1e19"
+metafile = true
+
+[[files]]
 file = "mods/apexcore.pw.toml"
 hash = "b8050b621d31f52788134100d82fef99a9aeaac4156b922292f6cd25bf428411"
 metafile = true
