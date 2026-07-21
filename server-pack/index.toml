@@ -72,11 +72,6 @@ hash = "5e63f44ba5113b18ee66c51f06c5e7a56112784130aa9051d9bedaaf64654933"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "70f380703f9f3a009f007efdcf7909b6d0cfec77393110aa501dde8479509297"
-metafile = true
-
-[[files]]
 file = "mods/citadel-neoforge.pw.toml"
 hash = "6a7cb0f572e043d6bedb47459ed13cb1ab62291663c8614d66c594d64458608b"
 metafile = true
@@ -533,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "0f4f7d756f734b2a3f68b139cda0390264f185913a2507d51cb49e66c7387791"
+hash = "e2ecf6aed5b0e553ddff0bc8b09785f66e05413a62bfcc30fdb67b4936cc4cd0"
 
 [[files]]
 file = "setup-server.sh"
@@ -541,4 +536,4 @@ hash = "bb03ed2ef9fd095164821de036ca0389f733803d7dbbf380e1b087783f80a190"
 
 [[files]]
 file = "start.sh"
-hash = "0c779351612e7b277b0710b4311f9661b5745fce4848338a23318af471149f18"
+hash = "8d45bb718c0cd9706fd287b05704d595890a678e3486e21d5b2282c8272407d0"

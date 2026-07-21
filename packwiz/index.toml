@@ -9,6 +9,10 @@ file = "config/fallingtree-common.json5"
 hash = "ff173162447ea0c3f72573c3278c8c3cebea85430fa7505478568a0e1c0f238c"
 
 [[files]]
+file = "config/modernfix.toml"
+hash = "48a091e717983eb7f2c6fc98b6289fbcf49abf034fb11b12fb27be9eee9abbbe"
+
+[[files]]
 file = "kubejs/server_scripts/croptopia_cfb_compat.js"
 hash = "e19eb6251a4543c376a27db6a9e0b6641b15d226628c065639187e36965cb7a1"
 
@@ -79,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "5e63f44ba5113b18ee66c51f06c5e7a56112784130aa9051d9bedaaf64654933"
-metafile = true
-
-[[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "70f380703f9f3a009f007efdcf7909b6d0cfec77393110aa501dde8479509297"
 metafile = true
 
 [[files]]

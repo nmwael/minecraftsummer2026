@@ -197,7 +197,7 @@
 - **OptiFine** — conflicts with Sodium. Use Iris + shader packs instead (Iris is included).
 - **Embeddium/Radium** — not needed. Native Sodium + Lithium are bundled.
 - **Optimized FPS** — not needed as a separate install. The key mods (Sodium, Iris, Lithium, ModernFix, FerriteCore) are included directly.
-- **C2ME** — optional. Add if chunk generation is slow on your machine.
+- **C2ME** — REMOVED (v1.5.11). Alpha quality caused "unregistered feature" crash with Maple mod's village structures. Not needed on i7-2600 hardware.
 - **Fusion (Connected Textures)** — not included. Add if you want connected glass/textures.
 
 ### What's Different from 1.20.1
@@ -217,7 +217,7 @@
 
 **Gained mods** (new to 26.x):
 - Native Sodium + Lithium (official CaffeineMC NeoForge builds)
-- C2ME (faster chunk loading)
+- C2ME (removed in v1.5.11 — alpha quality, caused crashes)
 - All 26.x vanilla content (Trial Chambers, Breeze, new blocks, new mobs)
 - Tectonic (massive terrain overhaul)
 - Building Gadgets (rapid building tools)
