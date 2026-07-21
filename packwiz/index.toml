@@ -431,6 +431,11 @@ hash = "32c4811fee2ac7211203518e1d059f4d95d4eff01691c9db5d9d471073126c9e"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "f316e5119a521462c37ac6f22e347f0c1dc1a3fdee192444efd0937bcc0b7bb8"
+metafile = true
+
+[[files]]
 file = "mods/pillager-caravans.pw.toml"
 hash = "d47e38c818d4d2c6518a0d37e4f10e07c2be180526343c9c44185851eb04b6e7"
 metafile = true
