@@ -57,8 +57,18 @@ hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
 
 [[files]]
+file = "mods/bclib-new-dawn.pw.toml"
+hash = "a4c2eed9e95bdf08bc6a859b96ab6ff70267952dab04c622e96bc650706ddfd3"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refoxed.pw.toml"
 hash = "b84b513a41c03a1135d3ade08bfba806128c7fc5f502688197a0995714dd4def"
+metafile = true
+
+[[files]]
+file = "mods/betterend-new-dawn.pw.toml"
+hash = "7ba13877eaea6d20809d2f0f67451f11ecce63e247ea4e61b7866e78f482fc37"
 metafile = true
 
 [[files]]
@@ -114,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "df1da6c0033fe229fb75d803b59b200c7a38fa4ae52e7b7163fbae801fdded32"
 metafile = true
 
 [[files]]
@@ -304,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/lios-overhauled-villages.pw.toml"
 hash = "28c6ba4936c08c9250b175e6513c3a6d9981585b76f56526fb6ae37b27d6c308"
+metafile = true
+
+[[files]]
+file = "mods/lios-seafaring-dungeons.pw.toml"
+hash = "a070fbffc317ce202f3017b3df648a8ca0db08a70464f619373006a6569d6a69"
 metafile = true
 
 [[files]]
@@ -499,6 +519,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0b1bb12ba1ef245f2e1ff3f31aaa18743e8dfd96554c3c3f415a833908c9c220"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-new-dawn.pw.toml"
+hash = "0a352b7a58934e80f42eaf4fdde56ee692968b1689472fdc2366859ffd8b6c44"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-new-dawn.pw.toml"
+hash = "b95ca5a54649819c1009cba107f57e9fa318b608691f63b91bf5453efaf8db02"
 metafile = true
 
 [[files]]

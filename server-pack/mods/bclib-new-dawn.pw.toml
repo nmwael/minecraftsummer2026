@@ -1,0 +1,13 @@
+name = "BCLib: New Dawn"
+filename = "bclib-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7bdKEtKC/versions/K1GDjbPP/bclib-26.1.2.jar"
+hash-format = "sha512"
+hash = "ae70b29ededa42e4a70aeae87e68f0ad38b53c5e34a5282a15730d472a8d9aa1fbc5b9f11fe7a3f68cc1138cc63f524dc0d52d1bcc6544f0ddf9317ea0699646"
+
+[update]
+[update.modrinth]
+mod-id = "7bdKEtKC"
+version = "K1GDjbPP"
