@@ -1,0 +1,13 @@
+name = "Animal Garden - Crocodile"
+filename = "animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gg7RMAJ0/versions/3ltEjqQT/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar"
+hash-format = "sha512"
+hash = "e9d78527775ac0492f6e84891e18ef51b7ed657893539496e17909a901e5b41fafa403b344dcac0a98e3363acbed7c89c09c4ad7a9660e60f1a6921e4ebdd0b4"
+
+[update]
+[update.modrinth]
+mod_id = "Gg7RMAJ0"
+version = "3ltEjqQT"

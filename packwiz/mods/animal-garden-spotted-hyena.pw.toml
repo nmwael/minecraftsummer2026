@@ -1,0 +1,13 @@
+name = "Animal Garden - Spotted Hyena"
+filename = "animalgarden_spottedhyena-1.1.1-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xFPZRPlU/versions/xp5vqjeD/animalgarden_spottedhyena-1.1.1-neoforge-26.1.2.7.jar"
+hash-format = "sha512"
+hash = "b0918768008dac2514f314e4855d47557176ba0b0dec3852ff0f68bffd760e65a627f452c4fbb34842c7b9af385949dd78c079da17b7607cb0232712db53b623"
+
+[update]
+[update.modrinth]
+mod_id = "xFPZRPlU"
+version = "xp5vqjeD"

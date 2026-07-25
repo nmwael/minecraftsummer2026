@@ -1,0 +1,13 @@
+name = "Animal Garden - Narwhal"
+filename = "animalgarden-narwhal-1.0.1-neoforge-26.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L6u2gHW6/versions/bIvSxMky/animalgarden-narwhal-1.0.1-neoforge-26.1.1.1.jar"
+hash-format = "sha512"
+hash = "5c59a4aab53afd66396355dbdc9d126af9dd6f54de5c40bec7c2c9a07e5b2038fe3626eb9b590ad769e463f19a5daf510f9308de58ee8de3f4931966a702ac53"
+
+[update]
+[update.modrinth]
+mod_id = "L6u2gHW6"
+version = "bIvSxMky"

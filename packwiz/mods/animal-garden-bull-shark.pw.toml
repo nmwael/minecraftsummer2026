@@ -1,0 +1,13 @@
+name = "Animal Garden - Bull Shark"
+filename = "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d83mmflQ/versions/v0PyD81d/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+hash-format = "sha512"
+hash = "27addbff725811608d77f44154388de0785a19ab4c4db6811fe7f7763a985f5c0fdae1615eeb4bed5159159630afa69b1f0d1f1120650b4df055a8ab986ddacc"
+
+[update]
+[update.modrinth]
+mod_id = "d83mmflQ"
+version = "v0PyD81d"

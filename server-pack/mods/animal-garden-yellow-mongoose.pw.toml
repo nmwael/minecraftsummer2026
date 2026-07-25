@@ -1,0 +1,13 @@
+name = "Animal Garden - Yellow Mongoose"
+filename = "animalgarden-yellowmongoose-1.0.0-neoforge-26.2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iIoMOJHK/versions/70lRwffN/animalgarden-yellowmongoose-1.0.0-neoforge-26.2.0.7.jar"
+hash-format = "sha512"
+hash = "63ce350381de187496029a0ec00bbece2a0459bf621bc432884de6a22282e5bb85f4d26b8d1bfa0b365c379eb5c1716c608e102c059a3b16a4cee67ecd535af0"
+
+[update]
+[update.modrinth]
+mod_id = "iIoMOJHK"
+version = "70lRwffN"

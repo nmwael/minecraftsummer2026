@@ -1,0 +1,13 @@
+name = "Animal Garden - Springhare"
+filename = "animalgarden-springhare-1.0.1-neoforge-26.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF3qDSk4/versions/aDP5MqgP/animalgarden-springhare-1.0.1-neoforge-26.1.1.1.jar"
+hash-format = "sha512"
+hash = "275117d85e15a48fc4f5224383f1122cc53da801c244d37f9e81a47a6c39b8194e1ea78624fe264c056406bc6488deb13957f3cf4df5d568263e0ebad8889478"
+
+[update]
+[update.modrinth]
+mod_id = "EF3qDSk4"
+version = "aDP5MqgP"

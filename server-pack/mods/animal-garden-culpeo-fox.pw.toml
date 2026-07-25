@@ -1,0 +1,13 @@
+name = "Animal Garden - Culpeo Fox"
+filename = "animalgarden-culpeofox-1.0.0-neoforge-26.2.0.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VtctvI8d/versions/bNRDMUZ1/animalgarden-culpeofox-1.0.0-neoforge-26.2.0.12.jar"
+hash-format = "sha512"
+hash = "5c40c1f38060abc1fc44f060e5fb3225abed04a1872673268e6d3308decf4c486ac2c697d81d8570dbf624afe268ff515eab9455ba9c8870d1adf1ad3d19cfd6"
+
+[update]
+[update.modrinth]
+mod_id = "VtctvI8d"
+version = "bNRDMUZ1"

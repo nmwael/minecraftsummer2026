@@ -1,0 +1,13 @@
+name = "Animal Garden - Western Gorilla"
+filename = "animalgarden-westerngorilla-1.0.1-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OezYkPKQ/versions/ugGLjX1p/animalgarden-westerngorilla-1.0.1-neoforge-26.1.2.7.jar"
+hash-format = "sha512"
+hash = "64450d2b03803087b94e00d18e93e55b78a37a6d7d2760fdf11cf5507deaacf5bbb621be1adbc129913fb2338a22151bf981c46b3a7dccd0787d3d1c5c844534"
+
+[update]
+[update.modrinth]
+mod_id = "OezYkPKQ"
+version = "ugGLjX1p"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Red River Hog"
+filename = "animalgarden-redriverhog-1.0.0-neoforge-26.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnGMw7NO/versions/Uzlruzz4/animalgarden-redriverhog-1.0.0-neoforge-26.1.1.1.jar"
+hash-format = "sha512"
+hash = "cc97a189e58787c7a048d008e60748813a05e8e394c1c8149979a3d6c45b696e5df922e931eb8f5c6a6d57b69f2b24efd12472b5323cf8a7d373db47c93d3620"
+
+[update]
+[update.modrinth]
+mod_id = "LnGMw7NO"
+version = "Uzlruzz4"

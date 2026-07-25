@@ -1,0 +1,13 @@
+name = "Animal Garden - Alligator Gar"
+filename = "animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bV68OKwf/versions/7MHgkB0P/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar"
+hash-format = "sha512"
+hash = "3ba13b88e3759f08cbda2c031b88268de425d3b777fae368361b1783cac4fa634b3a2e3e59c8b6b8eb46651d5ed73c5ea59c1bcee1a62c7a7369e6088e3c6361"
+
+[update]
+[update.modrinth]
+mod_id = "bV68OKwf"
+version = "7MHgkB0P"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Mouse"
+filename = "animalgarden-mouse-1.0.6-neoforge-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mm8Kzdc6/versions/GipYxlPN/animalgarden-mouse-1.0.6-neoforge-26.1.2.4.jar"
+hash-format = "sha512"
+hash = "7423bf8d5bbd0a541a72c702c2911e204b7935f4b97e365fbcb67fa240052b3d7e43804827691bff7fa62385529ac873afe7c131e7eebb2405637c4005df8190"
+
+[update]
+[update.modrinth]
+mod_id = "Mm8Kzdc6"
+version = "GipYxlPN"

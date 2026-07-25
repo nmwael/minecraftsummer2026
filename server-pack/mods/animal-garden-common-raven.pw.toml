@@ -1,0 +1,13 @@
+name = "Animal Garden - Common Raven"
+filename = "animalgarden-commonraven-1.0.1-neoforge-26.1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EzyL5Shd/versions/pOBwdxfc/animalgarden-commonraven-1.0.1-neoforge-26.1.2.10.jar"
+hash-format = "sha512"
+hash = "a85fe8509c5c250718f2dde3b4c00e8411ab1d843a818abf56c62af19dc368fddb19aeaa25b13040fc99266cb3c39411e4ee014f42ada60a962b433c22b78279"
+
+[update]
+[update.modrinth]
+mod_id = "EzyL5Shd"
+version = "pOBwdxfc"

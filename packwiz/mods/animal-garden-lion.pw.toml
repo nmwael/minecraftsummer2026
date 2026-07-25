@@ -1,0 +1,13 @@
+name = "Animal Garden - Lion"
+filename = "animalgarden-lion-1.0.3-neoforge-26.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dA4X7lKe/versions/4lSRj2MX/animalgarden-lion-1.0.3-neoforge-26.1.1.1.jar"
+hash-format = "sha512"
+hash = "ee263ac93379ededcbe6567abd3b22e53019138189918609090e59bc91b4d8b955807f789a8dc0695439cfae13d0b76327a4f0553c8a1f386c15aa9a88da1709"
+
+[update]
+[update.modrinth]
+mod_id = "dA4X7lKe"
+version = "4lSRj2MX"

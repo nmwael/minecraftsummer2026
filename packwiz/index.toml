@@ -21,14 +21,6 @@ file = "kubejs/server_scripts/pet-invulnerability.js"
 hash = "e1e0275aa6ca8310457a3a88ffa045fecb46f9bcc5b0466421c5a3266aef0f67"
 
 [[files]]
-file = "mods/BetterEnd-26.1.1.jar"
-hash = "cf6289f7c7bcf109e03e9bbf0d06af29d6b9f0f8ee3be8d4f4b4dff42da43fe0"
-
-[[files]]
-file = "mods/DungeonCrawl-NeoForge-26.1-2.3.17.jar"
-hash = "9e0e9ac002282eeabb48d7506d09a91acb11e931b92bf05dfb28d09e9f0a4787"
-
-[[files]]
 file = "mods/aether-ii.pw.toml"
 hash = "ff372cf70f86e4b9dc4633467f4a6cfa746315000cbfa7ed8937f21ca0487a54"
 metafile = true
@@ -41,6 +33,146 @@ metafile = true
 [[files]]
 file = "mods/amber.pw.toml"
 hash = "7cae1a04ecff1c8fb622c3b1512dbf603166edd2109ffb292c375af87509671b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-alligator-gar.pw.toml"
+hash = "177fe6d6f87c8e9fa8ad34cbfd24435877229d963cf6c997c0712abfda5bf585"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-bongo.pw.toml"
+hash = "9eeaa844858e672c8f1f2fa87f3bfa09f07c61c3679863246d14fb8c039dab03"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-bull-shark.pw.toml"
+hash = "15fca3286262f9d9420e7d477323435d2ca77af6eacb43146b2a2c65f333c4aa"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-common-raven.pw.toml"
+hash = "a8ce77cb444115d78c5c1b42e1661b1fff246ccd6892be122363ca1818c61fc6"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-crocodile.pw.toml"
+hash = "5baa44ddd217a1d380a3acec5114908fbafb560e60004db2c89dfd6eaf4d012a"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-culpeo-fox.pw.toml"
+hash = "e046562dd4c0543db3b04cc1d22d76328192c240f0201ccfbbec6988e0c890db"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-fennec-fox.pw.toml"
+hash = "de0170ed7336fefc67e938f6abb95ba12e2aca75e8fdce9175949c611674dedf"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-harp-seal.pw.toml"
+hash = "2ef2a4dd83683f7389710486d0a0bb41c2bdd2b581035afcb54c4c176f6aa607"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-hippopotamus.pw.toml"
+hash = "61751bce9a695585ae242f575711e8bb3bb6869f65e30c3f786d3524a290d8f6"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-lion.pw.toml"
+hash = "806aade95da063fa6285ef7fa646d9f87bc8af129396820f2f5a90a101350e31"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-manatee.pw.toml"
+hash = "a19612bedab22289f64f95092c548b90db391d975adb25ca51aec94fcbbb0e71"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-meerkat.pw.toml"
+hash = "80a5fb0483277412f7f7b2053e5f1ffcf7eed79abd0367cbc696fe5f1c99f0e9"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-mouse.pw.toml"
+hash = "014811343757c77a8ed37bd6e7410d20f980de7ee827f4daffa4796b7ef58ecc"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-narwhal.pw.toml"
+hash = "3f4539f9324eacc9671bfff3219928837e5ee8af2e5d495071e90e812cd54064"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-owl.pw.toml"
+hash = "e1bc2cd2ca52dd3e294e922be9e0076c8b4d97ef174d54fd43888f907ab6755b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-porcupine.pw.toml"
+hash = "201706653633dc3a038deb8d10f32acfdac2b3e11c4bf6b0f6c435fdddff5924"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-prairie-dog.pw.toml"
+hash = "fbb3c58cf4eb2b6f94d3575e11e3e4da719fc8ad51e8758e4700a973a48e879d"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-red-panda.pw.toml"
+hash = "3161ae52e9acba288b38ca1162d11d6454cf803fbf8ade642a5c5b8c3348d10c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-red-river-hog.pw.toml"
+hash = "a698a1035097aea1e92fad884de5b83d0a7a9b644317fd53fc11f1bc66573ab3"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-sea-otter.pw.toml"
+hash = "fd884895c4c2b08a9c9f42dc7bfaec88433f832ae3e7541fd3d66242dd58b938"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-snow-leopard.pw.toml"
+hash = "a860e8dff007fe97eb7464c0e849b3b8d33d1d1811b802df25bf867271123380"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-spotted-hyena.pw.toml"
+hash = "cae1e4838e42c1758d6318faae1cfd8abe91dea55577b0ebc91e1a69803cae6b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-springhare.pw.toml"
+hash = "636f87512c5703a62883f4957b9cfaa5271ae760dbf1cead0985d7332fee028e"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-sugar-glider.pw.toml"
+hash = "189d025f0c82168dd31aba2a9478f9f6a75b963db6bdf143253b09a2832cf44b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-vicuna.pw.toml"
+hash = "eaff714da8fe345cbe5437aa1fccd9b80088a3d50178be203106139925cd1b1d"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-western-gorilla.pw.toml"
+hash = "91a18a7d9b4f593cfa55f5627f73dd055c5c1f15c61225ae125947880505a893"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-white-rhinoceros.pw.toml"
+hash = "672f97641d10e4a52d22dd40b4940bbbcdbdae21629db0d075ea1b4c51b91875"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-yellow-mongoose.pw.toml"
+hash = "59b93dcbb666310270044518de0b1ab481061009aa4211f30fad8609884c8a57"
 metafile = true
 
 [[files]]
@@ -59,6 +191,11 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
+file = "mods/aquarius-libs.pw.toml"
+hash = "e474b3f58af2521ad0d358074e47ca9d1fa7178bb80b71cf6e464ef414fac3a5"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "5e9d732f8b339b09c53425ef0953681f4ada9ab90a268d7e6082bb1a6a880806"
 metafile = true
@@ -72,10 +209,6 @@ metafile = true
 file = "mods/balm.pw.toml"
 hash = "61b870e8ed73fa395a44b355e19419f24ea146e01005613ad59b83264f3e02b6"
 metafile = true
-
-[[files]]
-file = "mods/bclib-26.1.2.jar"
-hash = "87544a839cabc1633fadb2df87d128ff25c07d2128a963ee714f21b226344cc7"
 
 [[files]]
 file = "mods/bclib-new-dawn.pw.toml"
@@ -393,10 +526,6 @@ hash = "a070fbffc317ce202f3017b3df648a8ca0db08a70464f619373006a6569d6a69"
 metafile = true
 
 [[files]]
-file = "mods/lios_seafaring_dungeons-0.0.6.jar"
-hash = "8d6351cb45a7e7d70773d7cdd1f25b1739560e4f4dd2acd2ff74dae0950b1398"
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2f1532544e42fc6eb278c6c251d8495c1548c821c978cafa4fa2e4129e826567"
 metafile = true
@@ -617,17 +746,9 @@ hash = "0b1bb12ba1ef245f2e1ff3f31aaa18743e8dfd96554c3c3f415a833908c9c220"
 metafile = true
 
 [[files]]
-file = "mods/worldweaver-26.1.2.jar"
-hash = "e765d1086e200c59578bb37dab2ace57c0ab19849d98e53cfa6ad28d4e4ffad9"
-
-[[files]]
 file = "mods/worldweaver-new-dawn.pw.toml"
 hash = "0a352b7a58934e80f42eaf4fdde56ee692968b1689472fdc2366859ffd8b6c44"
 metafile = true
-
-[[files]]
-file = "mods/wunderlib-26.1.1.jar"
-hash = "30af3ff4b3d42a0402b79819fe6a7c8d52162af36805fcae977a03f2e32dd8c5"
 
 [[files]]
 file = "mods/wunderlib-new-dawn.pw.toml"

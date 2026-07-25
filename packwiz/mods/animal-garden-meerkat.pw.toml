@@ -1,0 +1,13 @@
+name = "Animal Garden - Meerkat"
+filename = "animalgarden-meerkat-1.0.6-neoforge-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zOJ4MhgQ/versions/U4RWhO0C/animalgarden-meerkat-1.0.6-neoforge-26.1.2.4.jar"
+hash-format = "sha512"
+hash = "7bfb96b2080fb17effdd98ad1f9d8a7729159466025972502ab40ca51b3204565b1ff9b9937898795d43bf87a84f3162b20cd76af62db60c62c4d4e492b7ff50"
+
+[update]
+[update.modrinth]
+mod_id = "zOJ4MhgQ"
+version = "U4RWhO0C"
