@@ -1,0 +1,13 @@
+name = "WunderLib: New Dawn"
+filename = "wunderlib-26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HZmhgdJk/versions/rUTTnzkP/wunderlib-26.1.1.jar"
+hash-format = "sha512"
+hash = "d037ea6de7e3d8e6eaac38ae4e0504b42f514a56940b58158f245370676a1c76b7fb14ceeff4fd5ffe57eb4399b0a2f9e9d45a9c2fcc9ab97bef403d6fb17b97"
+
+[update]
+[update.modrinth]
+mod-id = "HZmhgdJk"
+version = "rUTTnzkP"

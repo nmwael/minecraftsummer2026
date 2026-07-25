@@ -1,0 +1,13 @@
+name = "WorldWeaver: New Dawn"
+filename = "worldweaver-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/xMd7tqrC/worldweaver-26.1.2.jar"
+hash-format = "sha512"
+hash = "35dff99336691b8ac1c1c0e748025940e20d534d259cfd079235c1ed46969b5898f4679e16eda29859031cf472ef555f1f7f8ed42540d2e39dcff1f07dfdb2ed"
+
+[update]
+[update.modrinth]
+mod-id = "R8uGDQpB"
+version = "xMd7tqrC"
