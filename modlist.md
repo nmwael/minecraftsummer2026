@@ -32,7 +32,6 @@
 | [YUNG's Extras](https://modrinth.com/mod/yungs-extras) | NeoForge | Collection of vanilla+ structures and features: chimneys, wells, wall ruins, small quality-of-life worldgen improvements. v6.1.0 for 26.1.2 NeoForge. |
 | [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) | NeoForge | Naturally-generated bridges spanning rivers, ravines, and valleys. Great for exploration and navigation. 26.1.2 NeoForge. |
 | [Legacies and Legends](https://modrinth.com/mod/legacies-and-legends) | NeoForge | Complete exploration, loot and lore expansion — new structures, artifacts, and discoveries. Vanilla+. v1.9.1 for 26.1 NeoForge. Requires Unified API + Trim Patcher. |
-| [Stellarity](https://modrinth.com/mod/stellarity) | NeoForge | Complete End dimension overhaul: new biomes, mobs, structures, bosses, and gear. v5.5.3 for 26.1.2 NeoForge. No dependencies. Replaces End Reborn. |
 | [Bloom](https://modrinth.com/mod/bloom) | NeoForge | Vanilla-style Overworld expansion: new biomes, flora, blocks, crops. By Rebel459. v2.6 for 26.1 NeoForge. |
 | [The Undergarden](https://modrinth.com/mod/the-undergarden) | NeoForge | Underground dimension with unique biomes, mobs, blocks, and gear. Massive content mod. v0.9.7 for 26.1.2 NeoForge (beta). No dependencies. |
 | [Underground Worlds](https://modrinth.com/mod/underground-worlds) | NeoForge | Adds underground biomes, dungeons, and above-ground structures. Modular & configurable. v3.1.3 for 26.1 NeoForge. Optional deps: TerraBlender, Lithostitched. Uses Lithostitched for biome integration. |
@@ -229,7 +228,7 @@
 - Tricky Trials + Fortress of War (boss fights/combat)
 - Croptopia + RightClickHarvest + Crop Critters (farming/food overhaul — 250+ foods, 58 crops, helper mobs)
 - **YUNG's full suite** (Cave Biomes, Better Dungeons, Better Mineshafts, Better Strongholds, Better Caves, Extras, Bridges) — all now available for 26.1.2
-- Legacies and Legends + End Reborn + Bloom (vanilla+ exploration/lore/content expansion)
+- Legacies and Legends + Bloom (vanilla+ exploration/lore/content expansion)
 - Millager (village defenders) + Fish of Thieves (fishing expansion)
 - Dungeons Dimensions: Nether (Nether terrain) + ServerCore (dynamic view distance, mobcap management)
 - Better mod ecosystem — all new mods target 26.x going forward
